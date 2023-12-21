@@ -7,13 +7,13 @@ global.available = true
 global.autoread = false
 global.autoread_status = false
 //info
-global.owner = ['918416093656']
+global.owner = ['919863840872']
 global.ownernumber = '918416093656'
-global.ownername = "꧁Herbert♕꧂"
+global.ownername = “Lalmesaka"
 global.location = "India, Mizoram, Aizawl"
-global.botname = "HBWABot Mizo"
+global.botname = "Yato HBWABot Mizo"
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
-global.themeemoji = '🤖'
+global.themeemoji = '🗿'
 global.creator = "918416093656@s.whatsapp.net"
 global.ownerNumber = ["918416093656@s.whatsapp.net"]
 global.prefa = ['','!','.','#','/']
