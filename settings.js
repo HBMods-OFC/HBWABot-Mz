@@ -7,8 +7,8 @@ global.available = true
 global.autoread = false
 global.autoread_status = false
 //info
-global.owner = ['918416093656']
-global.ownernumber = '918416093656'
+global.owner = ['918787397542']
+global.ownernumber = '918787397542'
 global.ownername = "꧁Herbert♕꧂"
 global.location = "India, Mizoram, Aizawl"
 global.botname = "HBWABot Mizo"
