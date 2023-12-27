@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.AntiCallBot = true // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
+global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
 global.GroupWcMsg = true // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
