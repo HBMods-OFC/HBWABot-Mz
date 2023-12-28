@@ -6,9 +6,9 @@ global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a 
 global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
-global.available = true // false a i dah chuan offline angin a awm ang
+global.available = false // false a i dah chuan offline angin a awm ang
 global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
-global.autoread_status = true // true a i dah chuan auto status view in a awm ang
+global.autoread_status = false // true a i dah chuan auto status view in a awm ang
 
 //info
 global.owner = ['919233092990'] // I phone number in thlak rawh
