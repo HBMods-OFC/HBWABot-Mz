@@ -12,7 +12,7 @@ global.autoread_status = false // true a i dah chuan auto status view in a awm a
 
 //info
 global.owner = ['8787397542'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
+global.ownernumber = '8787397542' // I phone number in thlak rawh
 global.ownername = "꧁Kazuki꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
