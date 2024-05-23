@@ -1,0 +1,18 @@
+{
+  "name": "HBWABot Mizo",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/HBMods-OFC/HBWABot-Mz",
+  "logo": "https://i.imgur.com/Csx7R8J.jpg",
+  "keywords": ["nodejs", "bot", "gpt", "hbwabot", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
