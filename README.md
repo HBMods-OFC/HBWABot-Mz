@@ -1,6 +1,6 @@
 # HBWABot Mizo
 <p align="center">
-<img src="https://telegra.ph/file/15d8da8fe06675c0b4bdc.jpg" alt="nz" width="700"/>
+<img src="https://telegra.ph/file/72d28592653fef7eb4561.jpg" alt="nz" width="900"/>
 </p>
 
 </details>
