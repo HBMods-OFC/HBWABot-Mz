@@ -1,3 +1,4 @@
+//Credit By HBMods-OFC
 const chalk = require("chalk")
 const fs = require("fs")
 
