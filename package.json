@@ -11,6 +11,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines":{
+      "node":"21.x",
+      "npm":"10.x"
+   },
   "keywords": [
     "whatsapp",
     "2024"
@@ -24,6 +28,7 @@
     "@bochilteam/scraper": "^4.2.4",
     "@bochilteam/scraper-sosmed": "^1.0.5",
     "@distube/ytdl-core": "^4.13.5",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@kreisler/js-google-translate-free": "^2.1.0",
     "acrcloud": "^1.4.0",
     "html-to-text": "^9.0.5",
@@ -44,6 +49,7 @@
     "cookie": "^0.5.0",
     "crypto": "^1.0.1",
     "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
     "fluent-ffmpeg-7": "^2.1.5",
     "form-data": "^4.0.0",
     "fs-extra": "^11.1.1",
@@ -67,6 +73,7 @@
     "node-youtube-music": "^0.8.3",
     "object-query-string": "^1.2.0",
     "pastebin-js": "^1.0.6",
+    "path": "^0.12.7",
     "performance-now": "^2.1.0",
     "pino": "^8.14.1",
     "qrcode": "^1.5.3",
