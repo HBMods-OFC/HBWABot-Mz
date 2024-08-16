@@ -29,7 +29,7 @@
     "@bochilteam/scraper-sosmed": "^1.0.5",
     "@distube/ytdl-core": "^4.13.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "@kreisler/js-google-translate-free": "^2.1.0",
+    "@kreisler/js-google-translate-free": "^4.0.2",
     "acrcloud": "^1.4.0",
     "html-to-text": "^9.0.5",
     "y2mate-dl": "^1.0.4",
