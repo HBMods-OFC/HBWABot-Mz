@@ -22,7 +22,7 @@
   "author": "HBMods-OFC",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.5",
+    "@whiskeysockets/baileys": "^6.7.7",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@bochilteam/scraper": "^4.2.4",
