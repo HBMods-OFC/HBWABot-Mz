@@ -59,7 +59,7 @@
     "human-readable": "^0.2.1",
     "javascript-obfuscator": "^4.0.0",
     "jimp": "^0.16.13",
-    "jsdom": "^22.1.0",
+    "jsdom": "^25.0.1",
     "lodash": "^4.17.21",
     "mal-scraper": "^2.11.4",
     "mathjs": "^11.3.0",
