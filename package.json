@@ -22,12 +22,12 @@
   "author": "HBMods-OFC",
   "license": "MIT",
    "dependencies": {
+        "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.7.8",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "@bochilteam/scraper-sosmed": "^1.0.5",
         "@hapi/boom": "^10.0.1",
         "@kreisler/js-google-translate-free": "^2.1.0",
-        "@whiskeysockets/baileys": "^6.7.7",
         "acrcloud": "^1.4.0",
         "anime-wallpaper": "^1.0.2",
         "api-dylux": "^1.4.4",
