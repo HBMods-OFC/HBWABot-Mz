@@ -1,1 +1,750 @@
-function _0x2f61(){const _0x57b22e=['\x0aitem1.TEL','qrMdx','Replaced','ngth','blue','Session\x20fi','FzTah','mWQoh','ahcVp','--mobile','ng/baileys','EFVEc','XmxeV','YayVv','n/pdf','./settings','json','LFTXH','ng\x20hman\x20a\x20','@broadcast','?q=60','ged\x20Out,\x20K','sconnectRe','8416093656','node-cache','z.js','hTQeT','contacts','9184160936','hKine','ot*','cMod','d\x20to\x20>>\x0a(\x20','\x20session\x20h','HBWABot-Mz','contacts.u','Instagram:','ction\x20a\x20hl','toString','asDocument','white','catch','filename','\x20a\x20awm\x20taw','pollUpdate','wSwHh','2MB\x20aia\x20sa','YDfVS','public','restartReq','nukmi','10093524DZnUNB','@adiwajshi','he*\x0a\x0a*Grou','@g.us','cAGog','\x20Contact','BAE5','a\x20ang\x20che','14.0','withoutCon','-picture-9','rSTLH','./HBWABot-',';waid=','\x0a\x0aConnecte',',\x0aKei\x20hi\x20','lo\x20,\x20chu\x20v','Update\x20','Russia\x20[ru','RqSzt','length','.ADR:;;','sendPoll','group-part','awesome-ph','lodash','aHeKb','GjsQw','n.pixabay.','NAsou','HBWABot\x20He','3|0|4|2|1','Mz.js','adcast','chalk','exit','pGXgf','le\x20a\x20la\x20th','VhCwT','yZpuK','data','JluZA','createInte','5SQC/avata','an\x20a\x20rang\x20','status','3.0\x0aN:','ibb.co/RBx','\x20number\x20ty','70.blogspo','GTZTA','../tobebot','RMPdx','Safari','ync','\x20❏\x0a┃𒆜┌───┈','\x20)\x0a','30242bAdkry','bWZfG','fvaGJ','fromBuffer','matchAll','wfeUQ','h\x20lo,\x20reco','\x20Session\x20D','Server\x20ata','sendVideo','resolve','n/octet-st','autoread_s','GzlzK','\x0a┃𒆜│','hetah\x20hian','serializeM','./index.js','pino','\x20TimedOut,','true','asLocation','CksDP','string','nk-profile','ng...','\x0aitem1.X-A','uvpfg','creds','getName','eeBln','wbnDy','red','downloadMe','mber\x20type\x20','rmSync','moment-tim','@hapi/boom','sticker','niDSk','bind','-OFC/Vipda','YBmTN','ndingNotif','readFileSy','xabzi','https://cd','sendImage','axios','KwIdf','gjjpo','HMYOh','loadMessag','mxUji','Indonesia\x20','AYAFQ','asImage','anticall','pipe','redBright','contextInf','bEuww','filter','video','yRgCt','alloc','ezone','document','qkaKZ','GuqBB','ignore','groups.upd','\x20lo.','isBuffer','QboeT','readline','RVvCR','messages','Useless\x20fi','writeFile','essage','Owner\x20Numb','tabase/dat','stdout','open','elete\x20la,\x20','\x22\x0a┃𒆜│','\x20i\x20duh\x20chu','audio','tatus','WhatsApp','pe\x20rawh\x0aEn','ing...','sendFile','createWrit','Unknown\x20Di','author','XifFs','Country\x20co','sendTextWi','SUGBQ','rface','sVKvO','LOhvi','VPEHc','Info','conversati','le!..','XSNfp','rnan\x20:\x20+91','loAte','ext','MacOS','image','replace','aFGSF','bold','bQWLY','uantak\x0a┃𒆜│','block','File\x20downl','quoted','black','includes','MMoWR','exitProces','\x20ngai,\x20Res','LoixJ','on\x20thar\x20da','UvTCB','ULXRh','libphonenu','AMtkF','Hindi\x20[hi]','decodeJid','sendMessag','video/mp4','isGroup','er:','eLMTx','voice','abase.json','XRGQW','een\x20cleani','oad\x20laiin\x20','./asset/to','wh\x0aitem2.E','SgeWM','mreVg','32XiRnth','code','viewOnceMe','ode\x20with\x20m','\x20codecs=op','icipants.u','Mizo\x20[lus]','appenTextM','kStatus','\x20rawh','BlrjB','nnecting..','de\x20nen\x20i\x20W','slice','split','DkFCp','2015/10/05','message','KHAQk','\x0a\x0a\x0a*©HBWAB','://herbert','X-ABLabel:','close','pp.net','fyzAq','[\x20CHANGE\x20]','Message','ar\x20Install','getFile','mtype','yHwNX','AXUcE','thMentions','isVideo','bgBlack','3|1|0|4|2','tureUrl','default','cache','C\x0a┃𒆜│','audio/mpeg','nguage:','\x0a┃𒆜└──────','lECBL','Support\x20La','i\x20a,\x20Sessi','mOXCq','WGonQ','mSKbM','mimetype','nal','Connection','pdate','AKAHp','INTERNET:\x0a','groupevent',':VCARD','../index.j','SxuPU','BLabel:You','\x20Group-ah\x20','YT\x20Channel','user','Brazil\x20[pt','MAIL;type=','ata','ications','DlBYg','unlinkSync','yDGFy','alTjb','tFuCx','3261034lFVTuQ','Creator:','end','rGVnf','copyNForwa','11sAypLu','magenta','map','stream','ngin\x20conne','\x20hian\x20','Vjssx','Cannot\x20use','./lib/lowd','notify','de\x20:\x20','JjZQE','FXugj','Prefix:','green','hawngaihin','connection','l:IG\x0aitem4','i\x20delete\x20h','\x20herbert_s','head','BhGYX','a\x20lo,\x20Dele','aweDx','tact','27NDZktu','SQdYJ','keys','I\x20WhatsApp','1841609365','jvyQr','downloadAn','ion\x20:*\x0a\x20','reconnecti','wIpko','elXZi','unlink','buttonsMes','unwatchFil','re!','lamin\x20owne','./lib/colo','Wnpbu','asSticker','./tobebot.','ringCode','hyJsY','botname','\x20ka\x20ni\x20a,\x0a','TSUyP','imgur.com/','match','--pairing-','/HBWABot-M','-Mz.js','lzaMx','get','psert','audio/ogg;','settings','biEuR','add','2265570QSzqgP','ng....','EMTQB','RkbWe','ercontent.','getNumber','push','child','registered','Updated','stdin','yVDYq','pair\x20tha\x20l','.js','image/webp','═══𖡛','ldVMN','ng\x20install','\x0a╭═══❏\x20','writeFileS','ssage','zgMUV',';;;\x0aitem4.','join','SYqha','some','t.com\x0aitem','\x0aFN:','D\x0aVERSION:','OEhYJ','Closed','internatio','https://ra','YfGKg','diaMessage','templateMe','obile\x20api','amzbs','tirnan:\x20+9','messages.u','updateBloc','rUhow','Current\x20La','./lib/load','Hi\x20@','rge-v2.png','dSaveMedia','applicatio','timedOut','sendImageA','English\x20[e','LUyZG','WYZaf','vTKZy','XDZmJ','p\x20Descript','wm:\x20','text','vLecz','file-type','caption','yaQHI','\x0a\x0aConnecti','-BR]','BLabel:Hme','XVPvA','INXWL','listMessag','PXKBT','/22/37/bla','profilePic','Message\x20ng','SZnZp','─────┈\x20\x0a╰═','finish','masa\x20phawt','.bin','status@bro','owner','update\x20','action','silent','QZRye','then','@s.whatsap','COwCs','hUmjF','KiYBk','hah\x20mek\x20a\x20','question','test','startsWith','t\x20la\x20be\x20ra','VzMRv','categories','fromMe','requestPai','uired','Device\x20Log','type','error','ukoqm','Lost','yubXI','parseMenti','argv','o\x20lawm\x20a\x20c','AljbR','hian\x20kan\x20l','msg','ZKDGw','OehTO','angin\x20@','nguage:⬇️','com/photo/','HBMods\x20OFC','40tABkFo','ream','asVideo','promises','onnection.','authState','les\x20have\x20b','headers','Bot\x20Name:','readMessag','[id]','badSession','66942KzKPjI','\x20HBMods\x20OF','output','call','Version\x20Th','73460_960_','mime','Error\x20in\x20C','sendText','onenumber','SKyoc','eh\x20rawh.','r\x20hi\x20va\x20bi','\x0aitem2.X-A','ate','i.\x20Unblock','\x20Reconnect','Re-start\x20a','AaKod','\x20thei\x20a\x20ni','voters','Region\x0aEND','sendMedia','roVnY','LLdEw','cQGAs','ni....','./lib/myfu','yargs/yarg','rawh,\x20Enti','oHSuz','lTgiO','.update','\x20ang\x20che','0@s.whatsa','packname','oYdUg','log','existsSync','../lib','https://i.','path','fatal','./asset/da','RoQaO','\x20block\x20i\x20n','\x20pairing\x20c','nldOU','hatsApp\x20Nu','sendContac','server','ItdjF','desc','Pairing\x20Co','235pZhxAj','sage','Germany\x20[d','./session','watchFile','verifiedNa','greenBrigh','[\x20BOT\x20INFO','VXfvo','awng\x20thei\x20','68190jGbVvc','RMATION\x20]','fYlec','yellow','../HBWABot','com/HBMods','receivedPe','groupMetad','store','content-le','fOoyx','.URL:https','BmrTD','connecting','content-ty','uantak2\x0a┃𒆜','base64','BEGIN:VCAR','720.png?q=','aALdt','ownername','relayMessa','subject','rdPLZ','KPRUw','\x20call\x20ka\x20d','\x20error\x20a\x20a','creds.upda','statusCode','\x20Herbert\x20S','tart\x20rawh\x20','key','sEakd','auh\x20tlat,\x20','6\x20:\x20','Tgriq','RlEmFEQ.mp','name','viewOnce','sendAudio','══════════','\x20thlak\x20a\x20n','parse','concat','participan','ason:\x20','ephemeralM','Tube\x0aitem3','ztFhA','r-group-la','opts','loggedOut','bgGreen','ni\x20a,\x20tuna','CHQiY','offer','gif','fromObject','remoteJid','AqBQy','eStream','PqGuQ','sendFileUr','4349088eznZxo','PiBHJ','UAqWa','w.githubus','p.net','sendVideoA','VCHeF','aKsOj','3.X-ABLabe','sSticker','bebot','wMXBS','te\x20tha\x20leh','zjyYr','endsWith','readViewOn','WebMessage','from','UjAuY','VWNyk','./lib/exif','ta/master/','mber-js'];_0x2f61=function(){return _0x57b22e;};return _0x2f61();}const _0x5ac818=_0x274c;(function(_0x4cb086,_0x300b42){const _0x93d6a2=_0x274c,_0x361496=_0x4cb086();while(!![]){try{const _0x57001a=parseInt(_0x93d6a2(0x3c6))/(0x969+-0x22e8+-0x22*-0xc0)*(-parseInt(_0x93d6a2(0x331))/(-0x175d*0x1+0x2*0xb53+-0xb9*-0x1))+parseInt(_0x93d6a2(0x26f))/(-0xf21+0x242a+-0x1506)*(parseInt(_0x93d6a2(0x223))/(-0x4a7*-0x2+-0x805*0x2+0x6c0))+-parseInt(_0x93d6a2(0x265))/(-0x212d+-0xfd3+0x3105)*(-parseInt(_0x93d6a2(0x22f))/(0x1e13+-0xce*0xb+0x3*-0x711))+parseInt(_0x93d6a2(0x40e))/(-0x2*-0x5e9+0x15de+0x4cf*-0x7)+-parseInt(_0x93d6a2(0x2ae))/(0x1*0x12fb+0xd16+-0x8b*0x3b)+-parseInt(_0x93d6a2(0x42c))/(0x508+0x718+-0xc17)*(parseInt(_0x93d6a2(0x1af))/(-0xa9c+-0x1815+-0x20b*-0x11))+parseInt(_0x93d6a2(0x413))/(0x691*0x2+0x239*-0xb+0xb5c)*(parseInt(_0x93d6a2(0x2f8))/(-0x22e5*-0x1+0x16*0xed+0x505*-0xb));if(_0x57001a===_0x300b42)break;else _0x361496['push'](_0x361496['shift']());}catch(_0x27a310){_0x361496['push'](_0x361496['shift']());}}}(_0x2f61,-0x6a3fb+0x8b8f0+0x3*0x11804),require(_0x5ac818(0x2d4)));const pino=require(_0x5ac818(0x343)),{Boom}=require(_0x5ac818(0x356)),fs=require('fs'),chalk=require(_0x5ac818(0x31a)),{color}=require(_0x5ac818(0x19a)+'r'),FileType=require(_0x5ac818(0x1ea)),path=require(_0x5ac818(0x258)),axios=require(_0x5ac818(0x361)),_=require(_0x5ac818(0x311)),{uncache,nocache}=require(_0x5ac818(0x1da)+'er'),yargs=require(_0x5ac818(0x24b)+'s'),{Low,JSONFile}=require(_0x5ac818(0x41b)+'b'),moment=require(_0x5ac818(0x355)+_0x5ac818(0x373)),PhoneNumber=require(_0x5ac818(0x310)+_0x5ac818(0x238)),{imageToWebp,videoToWebp,writeExifImg,writeExifVid}=require(_0x5ac818(0x2c2)),{smsg,isUrl,generateMessageTag,getBuffer,getSizeMedia,fetch,await,sleep,reSize}=require(_0x5ac818(0x24a)+'nc'),{default:HBWABotMzConnect,delay,PHONENUMBER_MCC,makeCacheableSignalKeyStore,useMultiFileAuthState,DisconnectReason,fetchLatestBaileysVersion,generateForwardMessageContent,prepareWAMessageMedia,generateWAMessageFromContent,generateMessageID,downloadContentFromMessage,makeInMemoryStore,jidDecode,proto,Browsers}=require(_0x5ac818(0x2f9)+_0x5ac818(0x2cf)),NodeCache=require(_0x5ac818(0x2dd)),Pino=require(_0x5ac818(0x343)),readline=require(_0x5ac818(0x37c)),{parsePhoneNumber}=require(_0x5ac818(0x3b4)+_0x5ac818(0x2c4)),makeWASocket=require(_0x5ac818(0x2f9)+_0x5ac818(0x2cf))[_0x5ac818(0x3eb)],store=makeInMemoryStore({'logger':pino()[_0x5ac818(0x1b6)]({'level':_0x5ac818(0x200),'stream':_0x5ac818(0x277)})});global[_0x5ac818(0x2a1)]=new Object(yargs(process[_0x5ac818(0x218)][_0x5ac818(0x3d3)](0x1907*-0x1+0x14d5*-0x1+-0x13*-0x26a))[_0x5ac818(0x3ae)+'s'](![])[_0x5ac818(0x299)]()),global['db']=JSON[_0x5ac818(0x299)](fs[_0x5ac818(0x35d)+'nc'](_0x5ac818(0x25a)+_0x5ac818(0x383)+_0x5ac818(0x3be)));if(global['db'])global['db']={'sticker':{},'database':{},'game':{},'others':{},'users':{},'chats':{},'settings':{},...global['db']||{}};require(_0x5ac818(0x304)+_0x5ac818(0x318)),nocache(_0x5ac818(0x273)+_0x5ac818(0x1a7),_0x474d99=>{const _0x138cfb=_0x5ac818,_0x5237d1={'SgeWM':function(_0x41af3c,_0x2636ce,_0xd92c60){return _0x41af3c(_0x2636ce,_0xd92c60);},'lECBL':_0x138cfb(0x3df),'CksDP':_0x138cfb(0x421),'YayVv':function(_0x37ab0b,_0x7e9657,_0x5bc210){return _0x37ab0b(_0x7e9657,_0x5bc210);},'AYAFQ':_0x138cfb(0x1b8),'yZpuK':function(_0x179d32,_0x37c1a8,_0x4fe9b0){return _0x179d32(_0x37c1a8,_0x4fe9b0);},'wbnDy':_0x138cfb(0x272)};console[_0x138cfb(0x254)](_0x5237d1[_0x138cfb(0x3c4)](color,_0x5237d1[_0x138cfb(0x3f1)],_0x5237d1[_0x138cfb(0x347)]),_0x5237d1[_0x138cfb(0x2d2)](color,'\x27'+_0x474d99+'\x27',_0x5237d1[_0x138cfb(0x347)]),_0x5237d1[_0x138cfb(0x368)]),console[_0x138cfb(0x254)](_0x5237d1[_0x138cfb(0x31f)](color,_0x138cfb(0x1f6)+_0x138cfb(0x207)+_0x138cfb(0x249),_0x5237d1[_0x138cfb(0x350)]));}),require(_0x5ac818(0x342)),nocache(_0x5ac818(0x3ff)+'s',_0x18d8a1=>console[_0x5ac818(0x254)](color(_0x5ac818(0x3df),_0x5ac818(0x421)),color('\x27'+_0x18d8a1+'\x27',_0x5ac818(0x421)),_0x5ac818(0x1b8))),require(_0x5ac818(0x19d)+'js'),nocache(_0x5ac818(0x32b)+_0x5ac818(0x1bc),_0x428476=>console[_0x5ac818(0x254)](color(_0x5ac818(0x3df),_0x5ac818(0x421)),color('\x27'+_0x428476+'\x27',_0x5ac818(0x421)),_0x5ac818(0x1b8)));function _0x274c(_0x14adf9,_0xf9eac5){const _0xf5f8e2=_0x2f61();return _0x274c=function(_0x32054e,_0x467e51){_0x32054e=_0x32054e-(-0x1d61+0x23d7+-0x275*0x2);let _0x3d39cc=_0xf5f8e2[_0x32054e];return _0x3d39cc;},_0x274c(_0x14adf9,_0xf9eac5);}let phoneNumber=_0x5ac818(0x2e1)+'56';const pairingCode=!!phoneNumber||process[_0x5ac818(0x218)][_0x5ac818(0x3ac)](_0x5ac818(0x1a5)+_0x5ac818(0x3c7)),useMobile=process[_0x5ac818(0x218)][_0x5ac818(0x3ac)](_0x5ac818(0x2ce)),rl=readline[_0x5ac818(0x322)+_0x5ac818(0x396)]({'input':process[_0x5ac818(0x1b9)],'output':process[_0x5ac818(0x384)]}),question=_0x590898=>new Promise(_0x2da657=>rl[_0x5ac818(0x208)](_0x590898,_0x2da657));async function startHBWABotMz(){const _0x4bef49=_0x5ac818,_0xb37fa2={'aFGSF':_0x4bef49(0x316)+_0x4bef49(0x198),'jvyQr':_0x4bef49(0x3a9)+_0x4bef49(0x3c1)+_0x4bef49(0x340)+_0x4bef49(0x289)+_0x4bef49(0x1e7),'SxuPU':_0x4bef49(0x278)+_0x4bef49(0x2c8),'aHeKb':function(_0x3792ea,_0x40f070){return _0x3792ea<_0x40f070;},'lTgiO':function(_0x154cc5,_0x360886){return _0x154cc5*_0x360886;},'ULXRh':_0x4bef49(0x1f9),'BhGYX':_0x4bef49(0x213),'biEuR':_0x4bef49(0x2f3)+_0x4bef49(0x1c0)+_0x4bef49(0x242)+_0x4bef49(0x379),'ukoqm':function(_0x4a18ab,_0x14aa4e,_0x554876){return _0x4a18ab(_0x14aa4e,_0x554876);},'rGVnf':_0x4bef49(0x272),'YfGKg':function(_0x581798,_0x5dbe90){return _0x581798===_0x5dbe90;},'zgMUV':_0x4bef49(0x3dc),'VXfvo':function(_0x378b8a){return _0x378b8a();},'hUmjF':_0x4bef49(0x3f9)+_0x4bef49(0x2f0)+_0x4bef49(0x337)+_0x4bef49(0x3d1)+'..','wfeUQ':function(_0x5abe59){return _0x5abe59();},'MMoWR':function(_0x229e74,_0x5d2e2c){return _0x229e74===_0x5d2e2c;},'GjsQw':_0x4bef49(0x339)+_0x4bef49(0x417)+_0x4bef49(0x2ea)+_0x4bef49(0x290)+_0x4bef49(0x192)+_0x4bef49(0x34a),'JluZA':function(_0x137808,_0x5c36e8){return _0x137808===_0x5c36e8;},'yVDYq':_0x4bef49(0x3f9)+_0x4bef49(0x298)+_0x4bef49(0x3f3)+_0x4bef49(0x3b1)+_0x4bef49(0x2d7)+_0x4bef49(0x2a4)+_0x4bef49(0x2e6)+_0x4bef49(0x425)+_0x4bef49(0x1fa)+_0x4bef49(0x250),'zjyYr':function(_0x3b12b3){return _0x3b12b3();},'WYZaf':function(_0x1c2566){return _0x1c2566();},'AljbR':_0x4bef49(0x240)+_0x4bef49(0x3af)+_0x4bef49(0x28d)+_0x4bef49(0x39c),'GTZTA':function(_0x5267ae){return _0x5267ae();},'XSNfp':_0x4bef49(0x3f9)+_0x4bef49(0x344)+_0x4bef49(0x23f)+_0x4bef49(0x38d),'GuqBB':function(_0x568eb9){return _0x568eb9();},'Wnpbu':function(_0x32a3af,_0x31c547){return _0x32a3af===_0x31c547;},'fyzAq':_0x4bef49(0x27c),'XRGQW':function(_0x213da1,_0x43dfd4){return _0x213da1===_0x43dfd4;},'YDfVS':function(_0x1536b8,_0x4d0d97,_0x527ca4){return _0x1536b8(_0x4d0d97,_0x527ca4);},'AKAHp':_0x4bef49(0x414),'AMtkF':function(_0x4ca7b3,_0x4f1443,_0x94cb93){return _0x4ca7b3(_0x4f1443,_0x94cb93);},'PXKBT':function(_0x36ef65,_0xc591f5){return _0x36ef65==_0xc591f5;},'elXZi':_0x4bef49(0x385),'GzlzK':_0x4bef49(0x345),'mOXCq':function(_0x3c5b6d,_0x404171,_0x41836a){return _0x3c5b6d(_0x404171,_0x41836a);},'ZKDGw':function(_0xfe8046,_0x3bb73c){return _0xfe8046+_0x3bb73c;},'rUhow':_0x4bef49(0x330),'OEhYJ':_0x4bef49(0x1cf)+_0x4bef49(0x2b1)+_0x4bef49(0x1b3)+_0x4bef49(0x274)+_0x4bef49(0x35a)+_0x4bef49(0x2c3)+_0x4bef49(0x2e7)+_0x4bef49(0x1a6)+_0x4bef49(0x2de),'fOoyx':_0x4bef49(0x304)+_0x4bef49(0x318),'amzbs':_0x4bef49(0x416),'KPRUw':function(_0x50ab30,_0x28e1e9){return _0x50ab30+_0x28e1e9;},'CHQiY':_0x4bef49(0x236)+_0x4bef49(0x227)+_0x4bef49(0x1fe),'LUyZG':function(_0x356f0c){return _0x356f0c();},'SQdYJ':_0x4bef49(0x3a2),'UAqWa':_0x4bef49(0x35f)+_0x4bef49(0x314)+_0x4bef49(0x221)+_0x4bef49(0x3d6)+_0x4bef49(0x1f4)+_0x4bef49(0x349)+_0x4bef49(0x302)+_0x4bef49(0x234)+_0x4bef49(0x281)+'60','XifFs':_0x4bef49(0x257)+_0x4bef49(0x327)+_0x4bef49(0x323)+_0x4bef49(0x2a0)+_0x4bef49(0x1dc)+_0x4bef49(0x2d9),'BmrTD':function(_0x116066,_0x556e70){return _0x116066==_0x556e70;},'aKsOj':_0x4bef49(0x1ae),'yRgCt':function(_0x229ecd,_0x196b85){return _0x229ecd(_0x196b85);},'FXugj':function(_0x160ad4,_0x36cda2){return _0x160ad4(_0x36cda2);},'qrMdx':function(_0x5aaefc,_0x3f6cc3){return _0x5aaefc==_0x3f6cc3;},'tFuCx':function(_0x497cdc,_0x20a3e4){return _0x497cdc==_0x20a3e4;},'wMXBS':_0x4bef49(0x2a6),'rdPLZ':function(_0x544035,_0xe509f7){return _0x544035(_0xe509f7);},'LFTXH':_0x4bef49(0x3a8),'BlrjB':_0x4bef49(0x1fc)+_0x4bef49(0x319),'WGonQ':function(_0x239d89,_0x5067f8){return _0x239d89(_0x5067f8);},'XmxeV':function(_0x2ee354,_0x56e6b1){return _0x2ee354==_0x56e6b1;},'uvpfg':function(_0x21aedf,_0x404f41){return _0x21aedf===_0x404f41;},'pGXgf':_0x4bef49(0x29d)+_0x4bef49(0x381),'SZnZp':function(_0x371e9f,_0x411b35){return _0x371e9f===_0x411b35;},'VWNyk':function(_0x2c4906,_0x5d9436){return _0x2c4906===_0x5d9436;},'QZRye':_0x4bef49(0x41c),'AaKod':_0x4bef49(0x2fe),'VCHeF':function(_0x2dccbf,_0x1fb799,_0x237e21,_0x450025){return _0x2dccbf(_0x1fb799,_0x237e21,_0x450025);},'TSUyP':_0x4bef49(0x304)+'Mz','yDGFy':function(_0x465a49,_0x150f83){return _0x465a49+_0x150f83;},'hyJsY':_0x4bef49(0x203)+_0x4bef49(0x2b2),'vTKZy':_0x4bef49(0x1ce)+_0x4bef49(0x3f8),'SUGBQ':_0x4bef49(0x2fb),'sEakd':_0x4bef49(0x251)+_0x4bef49(0x3dd),'nldOU':_0x4bef49(0x38b),'qkaKZ':function(_0x4b4e6f,_0x184b69){return _0x4b4e6f+_0x184b69;},'VPEHc':_0x4bef49(0x27f),'mSKbM':function(_0x596b92,_0x4154f8){return _0x596b92(_0x4154f8);},'mWQoh':function(_0x1d2eb2,_0x226dc1,_0x3296bc){return _0x1d2eb2(_0x226dc1,_0x3296bc);},'bEuww':function(_0x2c3920,_0x122245){return _0x2c3920(_0x122245);},'SYqha':function(_0x41593a,_0x1c529b){return _0x41593a(_0x1c529b);},'yHwNX':function(_0x53a7d8,_0x59fbb4){return _0x53a7d8(_0x59fbb4);},'ahcVp':function(_0xc05662,_0x478ea4){return _0xc05662+_0x478ea4;},'PqGuQ':function(_0x3c8cf4,_0x58227a){return _0x3c8cf4+_0x58227a;},'XDZmJ':_0x4bef49(0x27d)+'pe','fYlec':function(_0x5c8bf0,_0x3a3f22){return _0x5c8bf0===_0x3a3f22;},'aALdt':_0x4bef49(0x2a7),'KHAQk':function(_0x11f177,_0x15b43b){return _0x11f177(_0x15b43b);},'yubXI':_0x4bef49(0x3e0),'QboeT':function(_0x24627d,_0x2051bb){return _0x24627d===_0x2051bb;},'bQWLY':_0x4bef49(0x1de)+_0x4bef49(0x2d3),'PiBHJ':function(_0x26daea,_0x179768){return _0x26daea===_0x179768;},'lzaMx':function(_0x3f2f36,_0x192a89){return _0x3f2f36(_0x192a89);},'AqBQy':_0x4bef49(0x370),'XVPvA':function(_0x2d8255,_0x1fde41){return _0x2d8255(_0x1fde41);},'cAGog':_0x4bef49(0x3b9),'DlBYg':_0x4bef49(0x389),'rSTLH':function(_0x26ddbc,_0x54dbf3){return _0x26ddbc(_0x54dbf3);},'roVnY':_0x4bef49(0x3ee),'NAsou':_0x4bef49(0x348),'oHSuz':_0x4bef49(0x1de)+_0x4bef49(0x33c)+_0x4bef49(0x224),'eLMTx':_0x4bef49(0x1fb),'oYdUg':function(_0x134f9f,_0x5b05f9){return _0x134f9f+_0x5b05f9;},'fvaGJ':function(_0x5e223c,_0x470fe3){return _0x5e223c+_0x470fe3;},'VhCwT':_0x4bef49(0x256),'UvTCB':function(_0x5a7122,_0x154775){return _0x5a7122*_0x154775;},'loAte':function(_0x39a374,_0x4abc56){return _0x39a374&&_0x4abc56;},'EFVEc':function(_0x512591,_0x59c16a){return _0x512591!==_0x59c16a;},'alTjb':function(_0x386062,_0xfc1043){return _0x386062<=_0xfc1043;},'hTQeT':_0x4bef49(0x357),'wIpko':_0x4bef49(0x317),'Tgriq':_0x4bef49(0x1ab)+_0x4bef49(0x3ca)+'us','VzMRv':_0x4bef49(0x374),'Vjssx':function(_0x2e8071,_0x181a39){return _0x2e8071===_0x181a39;},'nukmi':function(_0x5372c9,_0x37d51f){return _0x5372c9===_0x37d51f;},'aweDx':function(_0x2db6d1,_0xe4eddb){return _0x2db6d1||_0xe4eddb;},'ItdjF':function(_0x3f2b46,_0x2d35f2){return _0x3f2b46!==_0x2d35f2;},'ztFhA':_0x4bef49(0x2d8),'hKine':function(_0x43b10b,_0x4919aa){return _0x43b10b===_0x4919aa;},'EMTQB':_0x4bef49(0x2c2),'UjAuY':_0x4bef49(0x1bd),'COwCs':_0x4bef49(0x3e9),'wSwHh':function(_0x57e2cb,_0x27edd1,_0x2accbc){return _0x57e2cb(_0x27edd1,_0x2accbc);},'LoixJ':function(_0x47ebcc,_0x2cdda6){return _0x47ebcc!=_0x2cdda6;},'LOhvi':_0x4bef49(0x39b)+'on','cQGAs':function(_0x42bfe4,_0x5c620c,_0x54a7fb,_0xdc5192){return _0x42bfe4(_0x5c620c,_0x54a7fb,_0xdc5192);},'yaQHI':function(_0x416f64,_0x177c91){return _0x416f64(_0x177c91);},'bWZfG':function(_0x5963f7,_0x6dd37d){return _0x5963f7(_0x6dd37d);},'RoQaO':_0x4bef49(0x200),'xabzi':_0x4bef49(0x3a1),'KiYBk':_0x4bef49(0x32d),'AXUcE':_0x4bef49(0x300),'FzTah':function(_0x1b0da4,_0x3e2562){return _0x1b0da4(_0x3e2562);},'JjZQE':_0x4bef49(0x259),'mreVg':_0x4bef49(0x41a)+_0x4bef49(0x25d)+_0x4bef49(0x3c9)+_0x4bef49(0x1d3),'INXWL':_0x4bef49(0x393)+_0x4bef49(0x3d2)+_0x4bef49(0x25f)+_0x4bef49(0x353)+_0x4bef49(0x24c)+_0x4bef49(0x39e)+_0x4bef49(0x2dc),'YBmTN':function(_0x1cbc90,_0x286567){return _0x1cbc90(_0x286567);},'gjjpo':_0x4bef49(0x423)+_0x4bef49(0x24f),'DkFCp':_0x4bef49(0x28a)+'te','KwIdf':_0x4bef49(0x1d6)+_0x4bef49(0x1aa),'RMPdx':_0x4bef49(0x30f)+_0x4bef49(0x3cb)+_0x4bef49(0x3fa),'ldVMN':_0x4bef49(0x232),'vLecz':_0x4bef49(0x378)+_0x4bef49(0x23d),'niDSk':_0x4bef49(0x1d6)+_0x4bef49(0x3fa),'RqSzt':_0x4bef49(0x2e8)+_0x4bef49(0x3fa)};let {version:_0x420a01,isLatest:_0x2855d3}=await _0xb37fa2[_0x4bef49(0x26d)](fetchLatestBaileysVersion);const {state:_0x4dcefa,saveCreds:_0x267443}=await _0xb37fa2[_0x4bef49(0x1ec)](useMultiFileAuthState,_0x4bef49(0x268)),_0x4f9ada=new NodeCache(),_0x3ce0aa=_0xb37fa2[_0x4bef49(0x332)](makeWASocket,{'logger':_0xb37fa2[_0x4bef49(0x3f5)](pino,{'level':_0xb37fa2[_0x4bef49(0x25b)]}),'printQRInTerminal':!pairingCode,'browser':[_0xb37fa2[_0x4bef49(0x35e)],_0xb37fa2[_0x4bef49(0x206)],_0xb37fa2[_0x4bef49(0x3e5)]],'patchMessageBeforeSending':_0x98d0a2=>{const _0x48661b=_0x4bef49,_0x126430=!!(_0x98d0a2[_0x48661b(0x196)+_0x48661b(0x266)]||_0x98d0a2[_0x48661b(0x1d2)+_0x48661b(0x1c3)]||_0x98d0a2[_0x48661b(0x1f2)+'e']);return _0x126430&&(_0x98d0a2={'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadataVersion':0x2,'deviceListMetadata':{}},..._0x98d0a2}}}),_0x98d0a2;},'auth':{'creds':_0x4dcefa[_0x4bef49(0x34d)],'keys':_0xb37fa2[_0x4bef49(0x2f4)](makeCacheableSignalKeyStore,_0x4dcefa[_0x4bef49(0x18c)],_0xb37fa2[_0x4bef49(0x2cb)](Pino,{'level':_0xb37fa2[_0x4bef49(0x41e)]})[_0x4bef49(0x1b6)]({'level':_0xb37fa2[_0x4bef49(0x41e)]}))},'markOnlineOnConnect':!![],'generateHighQualityLinkPreview':!![],'getMessage':async _0x413ec5=>{const _0x123a0b=_0x4bef49;if(store){const _0x3b389f=await store[_0x123a0b(0x365)+'e'](_0x413ec5[_0x123a0b(0x2a9)],_0x413ec5['id']);return _0x3b389f[_0x123a0b(0x3d7)]||undefined;}return{'conversation':_0xb37fa2[_0x123a0b(0x3a4)]};},'msgRetryCounterCache':_0x4f9ada,'defaultQueryTimeoutMs':undefined});store[_0x4bef49(0x359)](_0x3ce0aa['ev']);if(pairingCode&&!_0x3ce0aa[_0x4bef49(0x228)][_0x4bef49(0x34d)][_0x4bef49(0x1b7)]){if(useMobile)throw new Error(_0xb37fa2[_0x4bef49(0x3c5)]);let _0x5659e4;!!_0x5659e4?(_0x5659e4=_0x5659e4[_0x4bef49(0x3a3)](/[^0-9]/g,''),!Object[_0x4bef49(0x18c)](PHONENUMBER_MCC)[_0x4bef49(0x1c8)](_0x3a576c=>_0x5659e4[_0x4bef49(0x20a)](_0x3a576c))&&(console[_0x4bef49(0x254)](chalk[_0x4bef49(0x3e8)](chalk[_0x4bef49(0x36c)](_0xb37fa2[_0x4bef49(0x1f1)]))),process[_0x4bef49(0x31b)](0x215c+-0xce1+0x1*-0x147b))):(_0x5659e4=await _0xb37fa2[_0x4bef49(0x3d8)](question,chalk[_0x4bef49(0x3e8)](chalk[_0x4bef49(0x26b)+'t'](_0x4bef49(0x18d)+_0x4bef49(0x328)+_0x4bef49(0x38c)+_0x4bef49(0x1d5)+_0x4bef49(0x18e)+_0x4bef49(0x291)))),_0x5659e4=_0x5659e4[_0x4bef49(0x3a3)](/[^0-9]/g,''),!Object[_0x4bef49(0x18c)](PHONENUMBER_MCC)[_0x4bef49(0x1c8)](_0x162bc6=>_0x5659e4[_0x4bef49(0x20a)](_0x162bc6))&&(console[_0x4bef49(0x254)](chalk[_0x4bef49(0x3e8)](chalk[_0x4bef49(0x36c)](_0xb37fa2[_0x4bef49(0x1f1)]))),_0x5659e4=await _0xb37fa2[_0x4bef49(0x35b)](question,chalk[_0x4bef49(0x3e8)](chalk[_0x4bef49(0x26b)+'t'](_0x4bef49(0x18d)+_0x4bef49(0x328)+_0x4bef49(0x38c)+_0x4bef49(0x1d5)+_0x4bef49(0x18e)+_0x4bef49(0x291)))),_0x5659e4=_0x5659e4[_0x4bef49(0x3a3)](/[^0-9]/g,''),rl[_0x4bef49(0x3dc)]())),_0xb37fa2[_0x4bef49(0x2f2)](setTimeout,async()=>{const _0x83332e=_0x4bef49;let _0x1d2510=await _0x3ce0aa[_0x83332e(0x20f)+_0x83332e(0x19e)](_0x5659e4);_0x1d2510=_0x1d2510?.[_0x83332e(0x1a4)](/.{1,4}/g)?.[_0x83332e(0x1c6)]('-')||_0x1d2510,console[_0x83332e(0x254)](chalk[_0x83332e(0x3ab)](chalk[_0x83332e(0x2a3)](_0x83332e(0x264)+_0x83332e(0x41d))),chalk[_0x83332e(0x3ab)](chalk[_0x83332e(0x2ed)](_0x1d2510)));},0x1a6+-0x8fa+0x130c);}_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x363)],async _0x134277=>{const _0x34d66e=_0x4bef49,_0x326be5={'sVKvO':function(_0x3ac1e9,_0x55a422,_0x5c4dd9){const _0x584045=_0x274c;return _0xb37fa2[_0x584045(0x214)](_0x3ac1e9,_0x55a422,_0x5c4dd9);},'LLdEw':_0xb37fa2[_0x34d66e(0x411)]},{connection:_0x16a528,lastDisconnect:_0xb51503}=_0x134277;try{if(_0xb37fa2[_0x34d66e(0x1d0)](_0x16a528,_0xb37fa2[_0x34d66e(0x1c4)])){let _0xeca986=new Boom(_0xb51503?.[_0x34d66e(0x213)])?.[_0x34d66e(0x231)][_0x34d66e(0x28b)];if(_0xb37fa2[_0x34d66e(0x1d0)](_0xeca986,DisconnectReason[_0x34d66e(0x22e)]))console[_0x34d66e(0x254)](_0x34d66e(0x2ca)+_0x34d66e(0x31d)+_0x34d66e(0x429)+_0x34d66e(0x2ba)+_0x34d66e(0x3cf)),_0xb37fa2[_0x34d66e(0x26d)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x1d0)](_0xeca986,DisconnectReason[_0x34d66e(0x423)+_0x34d66e(0x1cd)]))console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x205)]),_0xb37fa2[_0x34d66e(0x336)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x3ad)](_0xeca986,DisconnectReason[_0x34d66e(0x423)+_0x34d66e(0x215)]))console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x313)]),_0xb37fa2[_0x34d66e(0x336)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x321)](_0xeca986,DisconnectReason[_0x34d66e(0x423)+_0x34d66e(0x2c7)]))console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x1ba)]),_0xb37fa2[_0x34d66e(0x2bb)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x321)](_0xeca986,DisconnectReason[_0x34d66e(0x2a2)]))console[_0x34d66e(0x254)](_0x34d66e(0x211)+_0x34d66e(0x2da)+_0x34d66e(0x422)+_0x34d66e(0x338)+_0x34d66e(0x386)+_0x34d66e(0x1bb)+_0x34d66e(0x23a)),_0xb37fa2[_0x34d66e(0x1e3)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x3ad)](_0xeca986,DisconnectReason[_0x34d66e(0x2f6)+_0x34d66e(0x210)]))console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x21a)]),_0xb37fa2[_0x34d66e(0x32a)](startHBWABotMz);else{if(_0xb37fa2[_0x34d66e(0x3ad)](_0xeca986,DisconnectReason[_0x34d66e(0x1df)]))console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x39d)]),_0xb37fa2[_0x34d66e(0x376)](startHBWABotMz);else _0x3ce0aa[_0x34d66e(0x410)](_0x34d66e(0x390)+_0x34d66e(0x2db)+_0x34d66e(0x29c)+_0xeca986+'|'+_0x16a528);}}}}}}}if(_0xb37fa2[_0x34d66e(0x19b)](_0x134277[_0x34d66e(0x423)],_0xb37fa2[_0x34d66e(0x3de)])||_0xb37fa2[_0x34d66e(0x3bf)](_0x134277[_0x34d66e(0x275)+_0x34d66e(0x35c)+_0x34d66e(0x408)],![])){const _0x3f2a09=_0x34d66e(0x3c2)+_0x34d66e(0x2b8);fs[_0x34d66e(0x255)](_0x3f2a09)?(fs[_0x34d66e(0x354)](_0x3f2a09,{'recursive':!![],'force':!![]}),console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x2f4)](color,_0x34d66e(0x37f)+_0x34d66e(0x229)+_0x34d66e(0x3c0)+_0x34d66e(0x1b0),_0xb37fa2[_0x34d66e(0x3fb)])),console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x2f4)](color,_0x34d66e(0x1ed)+_0x34d66e(0x34a),_0xb37fa2[_0x34d66e(0x411)]))):console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x3b5)](color,_0x34d66e(0x1ed)+_0x34d66e(0x34a),_0xb37fa2[_0x34d66e(0x411)]));}if(_0xb37fa2[_0x34d66e(0x1f3)](_0x134277[_0x34d66e(0x423)],_0xb37fa2[_0x34d66e(0x194)])||_0xb37fa2[_0x34d66e(0x1f3)](_0x134277[_0x34d66e(0x275)+_0x34d66e(0x35c)+_0x34d66e(0x408)],_0xb37fa2[_0x34d66e(0x33e)])){console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x3f4)](color,_0xb37fa2[_0x34d66e(0x21d)](_0xb37fa2[_0x34d66e(0x21d)](_0x34d66e(0x306)+_0x34d66e(0x2e5),_0x3ce0aa[_0x34d66e(0x3b7)](_0x3ce0aa[_0x34d66e(0x404)]['id'])),_0xb37fa2[_0x34d66e(0x1d8)]),_0xb37fa2[_0x34d66e(0x3fb)]));const _0x236314=_0xb37fa2[_0x34d66e(0x1cc)],_0x430827=_0xb37fa2[_0x34d66e(0x279)];axios[_0x34d66e(0x1a9)](_0x236314,{'responseType':_0xb37fa2[_0x34d66e(0x1d4)]})[_0x34d66e(0x202)](_0x3eb3a2=>{const _0x1b23d8=_0x34d66e,_0x1356a6={'eeBln':_0xb37fa2[_0x1b23d8(0x18f)]},_0x3cd877=_0x3eb3a2[_0x1b23d8(0x22a)][_0xb37fa2[_0x1b23d8(0x400)]];if(_0x3cd877&&_0xb37fa2[_0x1b23d8(0x312)](_0x3cd877,_0xb37fa2[_0x1b23d8(0x24e)](_0xb37fa2[_0x1b23d8(0x24e)](-0x20b0+-0x13*0x89+-0x2add*-0x1,-0xaaf+-0x1224+0x20d3*0x1),-0x2c6+-0x21b1+-0x47f*-0x9))){const _0x450356=fs[_0x1b23d8(0x38f)+_0x1b23d8(0x2ab)](_0x430827);_0x3eb3a2[_0x1b23d8(0x320)][_0x1b23d8(0x36b)](_0x450356),_0x450356['on'](_0xb37fa2[_0x1b23d8(0x3b3)],()=>{const _0x821152=_0x1b23d8;console[_0x821152(0x254)](_0x326be5[_0x821152(0x397)](color,_0x821152(0x233)+_0x821152(0x3e1)+'ed',_0x326be5[_0x821152(0x247)]));}),_0x450356['on'](_0xb37fa2[_0x1b23d8(0x428)],_0x55ef3e=>{const _0x567dbe=_0x1b23d8;console[_0x567dbe(0x213)](_0x1356a6[_0x567dbe(0x34f)],_0x55ef3e[_0x567dbe(0x3d7)]);});}else console[_0x1b23d8(0x213)](_0xb37fa2[_0x1b23d8(0x1ad)]);})[_0x34d66e(0x2ee)](_0x5e6d4c=>{const _0x340044=_0x34d66e;console[_0x340044(0x213)](_0xb37fa2[_0x340044(0x18f)],_0x5e6d4c[_0x340044(0x3d7)]);}),console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x214)](color,_0x34d66e(0x1c1)+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x351)](_0x34d66e(0x26c)+_0x34d66e(0x270))+(_0x34d66e(0x32f)+_0x34d66e(0x33f))+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x40f))+(_0x34d66e(0x28c)+_0x34d66e(0x3a7))+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x403)+':')+(_0x34d66e(0x230)+_0x34d66e(0x3ed))+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x2e9))+(_0x34d66e(0x426)+_0x34d66e(0x27e)+'│')+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x22b))+'\x20'+botname+_0x34d66e(0x33f)+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x420))+'\x20'+prefixc+_0x34d66e(0x33f)+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x382)+_0x34d66e(0x3bb))+'\x20'+owner+_0x34d66e(0x33f)+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x1d9)+_0x34d66e(0x3ef))+'\x20\x22'+bot_language+_0x34d66e(0x387)+chalk[_0x34d66e(0x3a5)][_0x34d66e(0x2c9)](_0x34d66e(0x3f2)+_0x34d66e(0x220))+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x3cc))+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x1e1)+'n]')+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x367)+_0x34d66e(0x22d))+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x267)+'e]')+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x30a)+']')+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x405)+_0x34d66e(0x1ee))+_0x34d66e(0x33f)+chalk[_0x34d66e(0x26b)+'t'](_0x34d66e(0x3b6))+(_0x34d66e(0x3f0)+_0x34d66e(0x1f8)+_0x34d66e(0x297)+_0x34d66e(0x1be)),_0xb37fa2[_0x34d66e(0x3fb)]));}}catch(_0x54c776){console[_0x34d66e(0x254)](_0xb37fa2[_0x34d66e(0x287)](_0xb37fa2[_0x34d66e(0x2a5)],_0x54c776)),_0xb37fa2[_0x34d66e(0x1e2)](startHBWABotMz);}}),_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x3d5)],_0x267443),_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x362)],()=>{});GroupWcMsg&&_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x32c)],async _0xe9df51=>{const _0x16132e=_0x4bef49;console[_0x16132e(0x254)](_0xe9df51);try{let _0xb6011e=await _0x3ce0aa[_0x16132e(0x276)+_0x16132e(0x407)](_0xe9df51['id']),_0x37c332=_0xe9df51[_0x16132e(0x29b)+'ts'];for(let _0x39317a of _0x37c332){try{ppuser=await _0x3ce0aa[_0x16132e(0x1f5)+_0x16132e(0x3ea)](_0x39317a,_0xb37fa2[_0x16132e(0x42d)]);}catch(_0x2b0781){ppuser=_0xb37fa2[_0x16132e(0x2b0)];}try{ppgroup=await _0x3ce0aa[_0x16132e(0x1f5)+_0x16132e(0x3ea)](_0xe9df51['id'],_0xb37fa2[_0x16132e(0x42d)]);}catch(_0x3d5432){ppgroup=_0xb37fa2[_0x16132e(0x392)];}if(_0xb37fa2[_0x16132e(0x27b)](_0xe9df51[_0x16132e(0x1ff)],_0xb37fa2[_0x16132e(0x2b5)])){let _0xfed8d4=await _0x3ce0aa[_0x16132e(0x34e)](_0x39317a);memb=_0xb6011e[_0x16132e(0x29b)+'ts'][_0x16132e(0x30c)],Kon=await _0xb37fa2[_0x16132e(0x371)](getBuffer,_0x16132e(0x257)+_0x16132e(0x1a3)+_0x16132e(0x293)+'4'),Tol=await _0xb37fa2[_0x16132e(0x41f)](getBuffer,_0x16132e(0x257)+_0x16132e(0x1a3)+_0x16132e(0x293)+'4');const _0x4cc145=await _0x3ce0aa[_0x16132e(0x3b8)+'e'](_0xe9df51['id'],{'video':Kon,'contextInfo':{'mentionedJid':[_0x39317a]},'caption':_0x16132e(0x1db)+_0x39317a[_0x16132e(0x3d4)]('@')[0x754+-0x10*0x35+0x4*-0x101]+_0x16132e(0x307)+global[_0x16132e(0x1a0)]+(_0x16132e(0x1a1)+'*')+_0xb6011e[_0x16132e(0x285)]+(_0x16132e(0x402)+_0x16132e(0x21b)+_0x16132e(0x219)+_0x16132e(0x2fa)+_0x16132e(0x1e6)+_0x16132e(0x191))+_0xb6011e[_0x16132e(0x263)]+(_0x16132e(0x3d9)+_0x16132e(0x2e3)),'gifPlayback':!![]});await _0xb37fa2[_0x16132e(0x371)](sleep,0xfb*0x114+0x2b79+-0x4fb5),delete _0x4cc145;}}}catch(_0x3fd184){console[_0x16132e(0x254)](_0x3fd184);}});_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x1bf)],async _0x467cb0=>{const _0x4e2eaf=_0x4bef49;if(!AntiCallBot)return;let _0x3835f8=await _0x3ce0aa[_0x4e2eaf(0x3b7)](_0x3ce0aa[_0x4e2eaf(0x404)]['id']),_0x2eeb53=db[_0x4e2eaf(0x1ac)][_0x3835f8][_0x4e2eaf(0x36a)];if(!_0x2eeb53)return;console[_0x4e2eaf(0x254)](_0x467cb0);for(let _0x125156 of _0x467cb0){if(_0xb37fa2[_0x4e2eaf(0x2c6)](_0x125156[_0x4e2eaf(0x3ba)],![])){if(_0xb37fa2[_0x4e2eaf(0x40d)](_0x125156[_0x4e2eaf(0x325)],_0xb37fa2[_0x4e2eaf(0x2b9)])){let _0x23f7c7=await _0x3ce0aa[_0x4e2eaf(0x394)+_0x4e2eaf(0x3e6)](_0x125156[_0x4e2eaf(0x2bf)],global[_0x4e2eaf(0x1a0)]+_0x4e2eaf(0x418)+(_0x125156[_0x4e2eaf(0x3e7)]?_0x4e2eaf(0x370):_0x4e2eaf(0x3bd))+(_0x4e2eaf(0x288)+_0x4e2eaf(0x26e)+_0x4e2eaf(0x308)+_0x4e2eaf(0x21f))+_0x125156[_0x4e2eaf(0x2bf)][_0x4e2eaf(0x3d4)]('@')[0x587+-0x159b+0x1014]+(_0x4e2eaf(0x25c)+_0x4e2eaf(0x23e)+_0x4e2eaf(0x388)+_0x4e2eaf(0x324)+_0x4e2eaf(0x199)+_0x4e2eaf(0x23b)+_0x4e2eaf(0x2ff)));_0x3ce0aa[_0x4e2eaf(0x260)+'t'](_0x125156[_0x4e2eaf(0x2bf)],global[_0x4e2eaf(0x1fd)],_0x23f7c7),await _0xb37fa2[_0x4e2eaf(0x286)](sleep,-0x1cbb+-0xf53+0xac2*0x7),await _0x3ce0aa[_0x4e2eaf(0x1d7)+_0x4e2eaf(0x3ce)](_0x125156[_0x4e2eaf(0x2bf)],_0xb37fa2[_0x4e2eaf(0x2d6)]);}}}}),_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x362)],async _0x4837ce=>{const _0x4fbd16=_0x4bef49;global[_0x4fbd16(0x33d)+_0x4fbd16(0x38a)]&&(mek=_0x4837ce[_0x4fbd16(0x37e)][-0x2670+0x6d9*-0x5+-0x48ad*-0x1],mek[_0x4fbd16(0x28e)]&&_0xb37fa2[_0x4fbd16(0x3bf)](mek[_0x4fbd16(0x28e)][_0x4fbd16(0x2a9)],_0xb37fa2[_0x4fbd16(0x3d0)])&&await _0x3ce0aa[_0x4fbd16(0x22c)+'es']([mek[_0x4fbd16(0x28e)]]));}),_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x1e9)],async _0x35dbc9=>{const _0x535995=_0x4bef49;if(global[_0x535995(0x3fd)])try{ppgroup=await _0x3ce0aa[_0x535995(0x1f5)+_0x535995(0x3ea)](anu['id'],_0xb37fa2[_0x535995(0x42d)]);}catch(_0x565d8d){ppgroup=_0xb37fa2[_0x535995(0x392)];}});async function _0x4fab58(_0x389038){const _0x57fda0=_0x4bef49;if(store){const _0x37e7a4=await store[_0x57fda0(0x365)+'e'](_0x389038[_0x57fda0(0x2a9)],_0x389038['id']);return _0x37e7a4?.[_0x57fda0(0x3d7)];}return{'conversation':_0xb37fa2[_0x57fda0(0x3a4)]};}return _0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x358)],async _0x8a6c1e=>{const _0x2ba11b=_0x4bef49;for(const {key:_0x1e9b49,update:_0x22c132}of _0x8a6c1e){if(_0x22c132[_0x2ba11b(0x2f1)+'s']&&_0x1e9b49[_0x2ba11b(0x20e)]){const _0x178e34=await _0xb37fa2[_0x2ba11b(0x41f)](_0x4fab58,_0x1e9b49);if(_0x178e34){const _0x442941=await _0xb37fa2[_0x2ba11b(0x3f5)](getAggregateVotesInPollMessage,{'message':_0x178e34,'pollUpdates':_0x22c132[_0x2ba11b(0x2f1)+'s']});var _0x59266e=_0x442941[_0x2ba11b(0x36f)](_0x49c4e2=>_0x49c4e2[_0x2ba11b(0x243)][_0x2ba11b(0x30c)]!==0x1a32+-0x2*0xfec+-0x1*-0x5a6)[0x1a66+-0x136a+-0x6fc]?.[_0x2ba11b(0x294)];if(_0xb37fa2[_0x2ba11b(0x2d1)](_0x59266e,undefined))return;var _0x109d80=_0xb37fa2[_0x2ba11b(0x21d)](xprefix,_0x59266e);_0x3ce0aa[_0x2ba11b(0x3cd)+_0x2ba11b(0x381)](_0x109d80,_0x8a6c1e);}}}}),_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x362)],async _0x3ff058=>{const _0x1472af=_0x4bef49;try{const _0x27533f=_0x3ff058[_0x1472af(0x37e)][0x1f*0x6b+0x807*0x1+-0x53f*0x4];if(!_0x27533f[_0x1472af(0x3d7)])return;_0x27533f[_0x1472af(0x3d7)]=_0xb37fa2[_0x1472af(0x34c)](Object[_0x1472af(0x18c)](_0x27533f[_0x1472af(0x3d7)])[0xde*-0x2+-0x5e4+0x7a0],_0xb37fa2[_0x1472af(0x31c)])?_0x27533f[_0x1472af(0x3d7)][_0x1472af(0x29d)+_0x1472af(0x381)][_0x1472af(0x3d7)]:_0x27533f[_0x1472af(0x3d7)];if(_0x27533f[_0x1472af(0x28e)]&&_0xb37fa2[_0x1472af(0x1f7)](_0x27533f[_0x1472af(0x28e)][_0x1472af(0x2a9)],_0xb37fa2[_0x1472af(0x3d0)])){if(!_0x3ce0aa[_0x1472af(0x2f5)]&&!_0x27533f[_0x1472af(0x28e)][_0x1472af(0x20e)]&&_0xb37fa2[_0x1472af(0x2c1)](_0x3ff058[_0x1472af(0x212)],_0xb37fa2[_0x1472af(0x201)]))return;}if(_0x27533f[_0x1472af(0x28e)]['id'][_0x1472af(0x20a)](_0xb37fa2[_0x1472af(0x241)])&&_0xb37fa2[_0x1472af(0x2c1)](_0x27533f[_0x1472af(0x28e)]['id'][_0x1472af(0x30c)],0x115*-0xe+0x56e+0x9c8))return;const _0x322adc=_0xb37fa2[_0x1472af(0x2b4)](smsg,_0x3ce0aa,_0x27533f,store);_0xb37fa2[_0x1472af(0x371)](require,_0xb37fa2[_0x1472af(0x1a2)])(_0x3ce0aa,_0x322adc,_0x3ff058,store);}catch(_0x144b2e){console[_0x1472af(0x254)](_0x144b2e);}}),_0x3ce0aa[_0x4bef49(0x3b7)]=_0x36c0b4=>{const _0x2f85d8=_0x4bef49;if(!_0x36c0b4)return _0x36c0b4;if(/:\d+@/gi[_0x2f85d8(0x209)](_0x36c0b4)){let _0x355c19=_0xb37fa2[_0x2f85d8(0x286)](jidDecode,_0x36c0b4)||{};return _0x355c19[_0x2f85d8(0x404)]&&_0x355c19[_0x2f85d8(0x261)]&&_0xb37fa2[_0x2f85d8(0x287)](_0xb37fa2[_0x2f85d8(0x40b)](_0x355c19[_0x2f85d8(0x404)],'@'),_0x355c19[_0x2f85d8(0x261)])||_0x36c0b4;}else return _0x36c0b4;},_0x3ce0aa['ev']['on'](_0xb37fa2[_0x4bef49(0x30b)],_0x307042=>{const _0x482677=_0x4bef49;for(let _0x1331a0 of _0x307042){let _0x1e6de5=_0x3ce0aa[_0x482677(0x3b7)](_0x1331a0['id']);if(store&&store[_0x482677(0x2e0)])store[_0x482677(0x2e0)][_0x1e6de5]={'id':_0x1e6de5,'name':_0x1331a0[_0x482677(0x41c)]};}}),_0x3ce0aa[_0x4bef49(0x34e)]=(_0x2bd6e5,_0x30c9c1=![])=>{const _0x2a68e0=_0x4bef49,_0x2923a9={'HMYOh':function(_0x4ba20f,_0x481b2f){const _0x28b39b=_0x274c;return _0xb37fa2[_0x28b39b(0x3f5)](_0x4ba20f,_0x481b2f);},'RVvCR':function(_0xdf5924,_0x343983){const _0x594e74=_0x274c;return _0xb37fa2[_0x594e74(0x3f5)](_0xdf5924,_0x343983);},'SKyoc':function(_0x3e382d,_0x2310cd){const _0x30d1f5=_0x274c;return _0xb37fa2[_0x30d1f5(0x21d)](_0x3e382d,_0x2310cd);},'mxUji':_0xb37fa2[_0x2a68e0(0x19f)],'RkbWe':_0xb37fa2[_0x2a68e0(0x1e4)]};id=_0x3ce0aa[_0x2a68e0(0x3b7)](_0x2bd6e5),_0x30c9c1=_0x3ce0aa[_0x2a68e0(0x301)+_0x2a68e0(0x42b)]||_0x30c9c1;let _0x55e66f;if(id[_0x2a68e0(0x2bc)](_0xb37fa2[_0x2a68e0(0x395)]))return new Promise(async _0x11b0ae=>{const _0x147830=_0x2a68e0;_0x55e66f=store[_0x147830(0x2e0)][id]||{};if(!(_0x55e66f[_0x147830(0x294)]||_0x55e66f[_0x147830(0x285)]))_0x55e66f=_0x3ce0aa[_0x147830(0x276)+_0x147830(0x407)](id)||{};_0x2923a9[_0x147830(0x364)](_0x11b0ae,_0x55e66f[_0x147830(0x294)]||_0x55e66f[_0x147830(0x285)]||_0x2923a9[_0x147830(0x37d)](PhoneNumber,_0x2923a9[_0x147830(0x239)]('+',id[_0x147830(0x3a3)](_0x2923a9[_0x147830(0x366)],'')))[_0x147830(0x1b4)](_0x2923a9[_0x147830(0x1b2)]));});else _0x55e66f=_0xb37fa2[_0x2a68e0(0x1d0)](id,_0xb37fa2[_0x2a68e0(0x28f)])?{'id':id,'name':_0xb37fa2[_0x2a68e0(0x25e)]}:_0xb37fa2[_0x2a68e0(0x1d0)](id,_0x3ce0aa[_0x2a68e0(0x3b7)](_0x3ce0aa[_0x2a68e0(0x404)]['id']))?_0x3ce0aa[_0x2a68e0(0x404)]:store[_0x2a68e0(0x2e0)][id]||{};return(_0x30c9c1?'':_0x55e66f[_0x2a68e0(0x294)])||_0x55e66f[_0x2a68e0(0x285)]||_0x55e66f[_0x2a68e0(0x26a)+'me']||_0xb37fa2[_0x2a68e0(0x286)](PhoneNumber,_0xb37fa2[_0x2a68e0(0x21d)]('+',_0x2bd6e5[_0x2a68e0(0x3a3)](_0xb37fa2[_0x2a68e0(0x19f)],'')))[_0x2a68e0(0x1b4)](_0xb37fa2[_0x2a68e0(0x1e4)]);},_0x3ce0aa[_0x4bef49(0x260)+'t']=async(_0x1b32a8,_0x586c28,_0xef4fab='',_0x2d877c={})=>{const _0x5defc7=_0x4bef49;let _0x468e35=[];for(let _0xd457b6 of _0x586c28){_0x468e35[_0x5defc7(0x1b5)]({'displayName':await _0x3ce0aa[_0x5defc7(0x34e)](_0xd457b6),'vcard':_0x5defc7(0x280)+_0x5defc7(0x1cb)+_0x5defc7(0x326)+await _0x3ce0aa[_0x5defc7(0x34e)](_0xb37fa2[_0x5defc7(0x375)](_0xd457b6,_0xb37fa2[_0x5defc7(0x19f)]))+_0x5defc7(0x1ca)+global[_0x5defc7(0x283)]+(_0x5defc7(0x2c5)+_0x5defc7(0x305))+_0xd457b6+':'+_0xd457b6+(_0x5defc7(0x34b)+_0x5defc7(0x1ef)+_0x5defc7(0x20b)+_0x5defc7(0x3c3)+_0x5defc7(0x406)+_0x5defc7(0x3fc)+_0x5defc7(0x222)+_0x5defc7(0x23c)+_0x5defc7(0x401)+_0x5defc7(0x29e)+_0x5defc7(0x27a)+_0x5defc7(0x3da)+_0x5defc7(0x329)+_0x5defc7(0x1c9)+_0x5defc7(0x2b6)+_0x5defc7(0x424)+_0x5defc7(0x30d))+location+(_0x5defc7(0x1c5)+_0x5defc7(0x3db)+_0x5defc7(0x244)+_0x5defc7(0x3fe))});}_0x3ce0aa[_0x5defc7(0x3b8)+'e'](_0x1b32a8,{'contacts':{'displayName':_0x468e35[_0x5defc7(0x30c)]+_0x5defc7(0x2fd),'contacts':_0x468e35},..._0x2d877c},{'quoted':_0xef4fab});},_0x3ce0aa[_0x4bef49(0x2f5)]=!![],_0x3ce0aa[_0x4bef49(0x341)]=_0x34789c=>smsg(_0x3ce0aa,_0x34789c,store),_0x3ce0aa[_0x4bef49(0x237)]=(_0x2ee631,_0x1e9a3f,_0x31aaf1='',_0x13f50e)=>_0x3ce0aa[_0x4bef49(0x3b8)+'e'](_0x2ee631,{'text':_0x1e9a3f,..._0x13f50e},{'quoted':_0x31aaf1,..._0x13f50e}),_0x3ce0aa[_0x4bef49(0x360)]=async(_0x1b9c81,_0x34b668,_0x1f594a='',_0x4b71ab='',_0x57ef23)=>{const _0x3a9438=_0x4bef49;let _0x5e76d0=Buffer[_0x3a9438(0x37a)](_0x34b668)?_0x34b668:/^data:.*?\/.*?;base64,/i[_0x3a9438(0x209)](_0x34b668)?Buffer[_0x3a9438(0x2bf)](_0x34b668[_0x3a9438(0x3d4)]`,`[0x1f42+0x1bc1+0xd*-0x48a],_0xb37fa2[_0x3a9438(0x399)]):/^https?:\/\//[_0x3a9438(0x209)](_0x34b668)?await await _0xb37fa2[_0x3a9438(0x3f6)](getBuffer,_0x34b668):fs[_0x3a9438(0x255)](_0x34b668)?fs[_0x3a9438(0x35d)+'nc'](_0x34b668):Buffer[_0x3a9438(0x372)](0x217a+0x2*0x209+0x258c*-0x1);return await _0x3ce0aa[_0x3a9438(0x3b8)+'e'](_0x1b9c81,{'image':_0x5e76d0,'caption':_0x1f594a,..._0x57ef23},{'quoted':_0x4b71ab});},_0x3ce0aa[_0x4bef49(0x394)+_0x4bef49(0x3e6)]=async(_0x1aadb3,_0x3f2d88,_0x3a7df9,_0xb1d2b={})=>_0x3ce0aa[_0x4bef49(0x3b8)+'e'](_0x1aadb3,{'text':_0x3f2d88,'mentions':[..._0x3f2d88[_0x4bef49(0x335)](/@(\d{0,16})/g)][_0x4bef49(0x415)](_0x1367a6=>_0x1367a6[0x2*0x4b7+-0x1124*-0x1+0x8db*-0x3]+(_0x4bef49(0x203)+_0x4bef49(0x2b2))),..._0xb1d2b},{'quoted':_0x3a7df9}),_0x3ce0aa[_0x4bef49(0x1e0)+_0x4bef49(0x2b7)]=async(_0x297dda,_0x3c44ee,_0xb80000,_0x52ad87={})=>{const _0x5af53a=_0x4bef49;let _0x148b88=Buffer[_0x5af53a(0x37a)](_0x3c44ee)?_0x3c44ee:/^data:.*?\/.*?;base64,/i[_0x5af53a(0x209)](_0x3c44ee)?Buffer[_0x5af53a(0x2bf)](_0x3c44ee[_0x5af53a(0x3d4)]`,`[0x36f+0x252*-0x2+0x136],_0xb37fa2[_0x5af53a(0x399)]):/^https?:\/\//[_0x5af53a(0x209)](_0x3c44ee)?await await _0xb37fa2[_0x5af53a(0x371)](getBuffer,_0x3c44ee):fs[_0x5af53a(0x255)](_0x3c44ee)?fs[_0x5af53a(0x35d)+'nc'](_0x3c44ee):Buffer[_0x5af53a(0x372)](0x17*0x9c+-0x4db+-0x14f*0x7),_0xf515e3;_0x52ad87&&(_0x52ad87[_0x5af53a(0x252)]||_0x52ad87[_0x5af53a(0x391)])?_0xf515e3=await _0xb37fa2[_0x5af53a(0x2cc)](writeExifImg,_0x148b88,_0x52ad87):_0xf515e3=await _0xb37fa2[_0x5af53a(0x41f)](imageToWebp,_0x148b88),await _0x3ce0aa[_0x5af53a(0x3b8)+'e'](_0x297dda,{'sticker':{'url':_0xf515e3},..._0x52ad87},{'quoted':_0xb80000})[_0x5af53a(0x202)](_0x4ec50f=>{const _0x31d939=_0x5af53a;return fs[_0x31d939(0x40a)](_0xf515e3),_0x4ec50f;});},_0x3ce0aa[_0x4bef49(0x296)]=async(_0x24368c,_0xf91b48,_0x566105='',_0x4fc324=![],_0x31ab3b)=>{const _0x43ba66=_0x4bef49;let _0x39a408=Buffer[_0x43ba66(0x37a)](_0xf91b48)?_0xf91b48:/^data:.*?\/.*?;base64,/i[_0x43ba66(0x209)](_0xf91b48)?Buffer[_0x43ba66(0x2bf)](_0xf91b48[_0x43ba66(0x3d4)]`,`[-0x297+-0x3e5+-0x97*-0xb],_0xb37fa2[_0x43ba66(0x399)]):/^https?:\/\//[_0x43ba66(0x209)](_0xf91b48)?await await _0xb37fa2[_0x43ba66(0x36e)](getBuffer,_0xf91b48):fs[_0x43ba66(0x255)](_0xf91b48)?fs[_0x43ba66(0x35d)+'nc'](_0xf91b48):Buffer[_0x43ba66(0x372)](0x177e+-0xe*0x70+-0x115e);return await _0x3ce0aa[_0x43ba66(0x3b8)+'e'](_0x24368c,{'audio':_0x39a408,'ptt':_0x4fc324,..._0x31ab3b},{'quoted':_0x566105});},_0x3ce0aa[_0x4bef49(0x33a)]=async(_0x5b3430,_0x482157,_0x47d689='',_0x576077='',_0x205fe2=![],_0x17b05f)=>{const _0x230001=_0x4bef49;let _0x2722f1=Buffer[_0x230001(0x37a)](_0x482157)?_0x482157:/^data:.*?\/.*?;base64,/i[_0x230001(0x209)](_0x482157)?Buffer[_0x230001(0x2bf)](_0x482157[_0x230001(0x3d4)]`,`[-0x16b5+-0x1535+0x2beb*0x1],_0xb37fa2[_0x230001(0x399)]):/^https?:\/\//[_0x230001(0x209)](_0x482157)?await await _0xb37fa2[_0x230001(0x3f6)](getBuffer,_0x482157):fs[_0x230001(0x255)](_0x482157)?fs[_0x230001(0x35d)+'nc'](_0x482157):Buffer[_0x230001(0x372)](-0x329*0x5+0x10*0x257+-0x15a3);return await _0x3ce0aa[_0x230001(0x3b8)+'e'](_0x5b3430,{'video':_0x2722f1,'caption':_0x47d689,'gifPlayback':_0x205fe2,..._0x17b05f},{'quoted':_0x576077});},_0x3ce0aa[_0x4bef49(0x2b3)+_0x4bef49(0x2b7)]=async(_0x571ffc,_0x2fd0eb,_0x3e4c78,_0x31788c={})=>{const _0x590c37=_0x4bef49;let _0x352e18=Buffer[_0x590c37(0x37a)](_0x2fd0eb)?_0x2fd0eb:/^data:.*?\/.*?;base64,/i[_0x590c37(0x209)](_0x2fd0eb)?Buffer[_0x590c37(0x2bf)](_0x2fd0eb[_0x590c37(0x3d4)]`,`[-0xcde+0x5*-0x2f+0x5*0x2c2],_0xb37fa2[_0x590c37(0x399)]):/^https?:\/\//[_0x590c37(0x209)](_0x2fd0eb)?await await _0xb37fa2[_0x590c37(0x1c7)](getBuffer,_0x2fd0eb):fs[_0x590c37(0x255)](_0x2fd0eb)?fs[_0x590c37(0x35d)+'nc'](_0x2fd0eb):Buffer[_0x590c37(0x372)](0x15cf+-0x1be1*-0x1+-0x4f8*0xa),_0x54453f;return _0x31788c&&(_0x31788c[_0x590c37(0x252)]||_0x31788c[_0x590c37(0x391)])?_0x54453f=await _0xb37fa2[_0x590c37(0x2cc)](writeExifVid,_0x352e18,_0x31788c):_0x54453f=await _0xb37fa2[_0x590c37(0x3e4)](videoToWebp,_0x352e18),await _0x3ce0aa[_0x590c37(0x3b8)+'e'](_0x571ffc,{'sticker':{'url':_0x54453f},..._0x31788c},{'quoted':_0x3e4c78}),_0x54453f;},_0x3ce0aa[_0x4bef49(0x190)+_0x4bef49(0x1dd)+_0x4bef49(0x3e0)]=async(_0x24fb38,_0x70005e,_0x577d8f=!![])=>{const _0x1bf9f0=_0x4bef49;let _0x28a13a=_0x24fb38[_0x1bf9f0(0x21c)]?_0x24fb38[_0x1bf9f0(0x21c)]:_0x24fb38,_0x21e730=(_0x24fb38[_0x1bf9f0(0x21c)]||_0x24fb38)[_0x1bf9f0(0x3f7)]||'',_0x436072=_0x24fb38[_0x1bf9f0(0x3e3)]?_0x24fb38[_0x1bf9f0(0x3e3)][_0x1bf9f0(0x3a3)](/Message/gi,''):_0x21e730[_0x1bf9f0(0x3d4)]('/')[0x14b7+-0x204f+-0x1*-0xb98];const _0x553cca=await _0xb37fa2[_0x1bf9f0(0x2cc)](downloadContentFromMessage,_0x28a13a,_0x436072);let _0x86600b=Buffer[_0x1bf9f0(0x2bf)]([]);for await(const _0x345eaa of _0x553cca){_0x86600b=Buffer[_0x1bf9f0(0x29a)]([_0x86600b,_0x345eaa]);}let _0x8c07fd=await FileType[_0x1bf9f0(0x334)](_0x86600b);return trueFileName=_0x577d8f?_0xb37fa2[_0x1bf9f0(0x2cd)](_0xb37fa2[_0x1bf9f0(0x2ac)](_0x70005e,'.'),_0x8c07fd[_0x1bf9f0(0x3a0)]):_0x70005e,await fs[_0x1bf9f0(0x1c2)+_0x1bf9f0(0x32e)](trueFileName,_0x86600b),trueFileName;},_0x3ce0aa[_0x4bef49(0x2ad)+'l']=async(_0x3078ad,_0x530ab1,_0x2bdc97,_0x38d466,_0x1bcd7e={})=>{const _0x2f5162=_0x4bef49;let _0x4f4f94='',_0x2044f5=await axios[_0x2f5162(0x427)](_0x530ab1);_0x4f4f94=_0x2044f5[_0x2f5162(0x22a)][_0xb37fa2[_0x2f5162(0x1e5)]];if(_0xb37fa2[_0x2f5162(0x271)](_0x4f4f94[_0x2f5162(0x3d4)]('/')[-0x25d0+0x54f+0x2082],_0xb37fa2[_0x2f5162(0x282)]))return _0x3ce0aa[_0x2f5162(0x3b8)+'e'](_0x3078ad,{'video':await _0xb37fa2[_0x2f5162(0x3d8)](getBuffer,_0x530ab1),'caption':_0x2bdc97,'gifPlayback':!![],..._0x1bcd7e},{'quoted':_0x38d466,..._0x1bcd7e});let _0x151916=_0xb37fa2[_0x2f5162(0x2cd)](_0x4f4f94[_0x2f5162(0x3d4)]('/')[-0x233*0x2+0xadf*-0x1+-0x517*-0x3],_0xb37fa2[_0x2f5162(0x216)]);if(_0xb37fa2[_0x2f5162(0x37b)](_0x4f4f94,_0xb37fa2[_0x2f5162(0x3a6)]))return _0x3ce0aa[_0x2f5162(0x3b8)+'e'](_0x3078ad,{'document':await _0xb37fa2[_0x2f5162(0x371)](getBuffer,_0x530ab1),'mimetype':_0xb37fa2[_0x2f5162(0x3a6)],'caption':_0x2bdc97,..._0x1bcd7e},{'quoted':_0x38d466,..._0x1bcd7e});if(_0xb37fa2[_0x2f5162(0x2af)](_0x4f4f94[_0x2f5162(0x3d4)]('/')[-0x18dd*0x1+0x3c2+0x3*0x709],_0xb37fa2[_0x2f5162(0x42d)]))return _0x3ce0aa[_0x2f5162(0x3b8)+'e'](_0x3078ad,{'image':await _0xb37fa2[_0x2f5162(0x1a8)](getBuffer,_0x530ab1),'caption':_0x2bdc97,..._0x1bcd7e},{'quoted':_0x38d466,..._0x1bcd7e});if(_0xb37fa2[_0x2f5162(0x2c1)](_0x4f4f94[_0x2f5162(0x3d4)]('/')[-0x17a6+0x2498+-0x679*0x2],_0xb37fa2[_0x2f5162(0x2aa)]))return _0x3ce0aa[_0x2f5162(0x3b8)+'e'](_0x3078ad,{'video':await _0xb37fa2[_0x2f5162(0x1f0)](getBuffer,_0x530ab1),'caption':_0x2bdc97,'mimetype':_0xb37fa2[_0x2f5162(0x2fc)],..._0x1bcd7e},{'quoted':_0x38d466,..._0x1bcd7e});if(_0xb37fa2[_0x2f5162(0x1d0)](_0x4f4f94[_0x2f5162(0x3d4)]('/')[0x6cc+-0x13c9+0xcfd],_0xb37fa2[_0x2f5162(0x409)]))return _0x3ce0aa[_0x2f5162(0x3b8)+'e'](_0x3078ad,{'audio':await _0xb37fa2[_0x2f5162(0x303)](getBuffer,_0x530ab1),'caption':_0x2bdc97,'mimetype':_0xb37fa2[_0x2f5162(0x246)],..._0x1bcd7e},{'quoted':_0x38d466,..._0x1bcd7e});},_0x3ce0aa[_0x4bef49(0x3e2)]=async(_0x36a415,_0x572275)=>{const _0x3cbd6f=_0x4bef49;let _0x361e4e,_0x56a439=Buffer[_0x3cbd6f(0x37a)](_0x36a415)?_0x36a415:/^data:.*?\/.*?;base64,/i[_0x3cbd6f(0x209)](_0x36a415)?Buffer[_0x3cbd6f(0x2bf)](_0x36a415[_0x3cbd6f(0x3d4)]`,`[-0x2*0xaab+-0x3*-0xa77+0xc6*-0xd],_0xb37fa2[_0x3cbd6f(0x399)]):/^https?:\/\//[_0x3cbd6f(0x209)](_0x36a415)?await(_0x361e4e=await _0xb37fa2[_0x3cbd6f(0x286)](getBuffer,_0x36a415)):fs[_0x3cbd6f(0x255)](_0x36a415)?(filename=_0x36a415,fs[_0x3cbd6f(0x35d)+'nc'](_0x36a415)):_0xb37fa2[_0x3cbd6f(0x34c)](typeof _0x36a415,_0xb37fa2[_0x3cbd6f(0x315)])?_0x36a415:Buffer[_0x3cbd6f(0x372)](0x1*0x2383+0x3a1+-0x2724),_0x4a768b=await FileType[_0x3cbd6f(0x334)](_0x56a439)||{'mime':_0xb37fa2[_0x3cbd6f(0x24d)],'ext':_0xb37fa2[_0x3cbd6f(0x3bc)]};filename=path[_0x3cbd6f(0x1c6)](__filename,_0xb37fa2[_0x3cbd6f(0x253)](_0xb37fa2[_0x3cbd6f(0x2ac)](_0xb37fa2[_0x3cbd6f(0x333)](_0xb37fa2[_0x3cbd6f(0x31e)],_0xb37fa2[_0x3cbd6f(0x3b2)](new Date(),0x1*0x110c+-0x244b+-0x160*-0xe)),'.'),_0x4a768b[_0x3cbd6f(0x3a0)]));if(_0xb37fa2[_0x3cbd6f(0x39f)](_0x56a439,_0x572275))fs[_0x3cbd6f(0x226)][_0x3cbd6f(0x380)](filename,_0x56a439);return{'res':_0x361e4e,'filename':filename,'size':await _0xb37fa2[_0x3cbd6f(0x36e)](getSizeMedia,_0x56a439),..._0x4a768b,'data':_0x56a439};},_0x3ce0aa[_0x4bef49(0x38e)]=async(_0x134907,_0xbf49c6,_0x2c518d='',_0x32934a='',_0x33e1d4,_0x62a401=![],_0x48e863={})=>{const _0x1def4a=_0x4bef49;let _0x34231b=await _0x3ce0aa[_0x1def4a(0x3e2)](_0xbf49c6,!![]),{res:_0x14adc6,data:_0x4101bd,filename:_0x33c6fb}=_0x34231b;if(_0x14adc6&&_0xb37fa2[_0x1def4a(0x2d0)](_0x14adc6[_0x1def4a(0x325)],-0x9*-0x1fb+-0x3*0x3c4+-0x5bf)||_0xb37fa2[_0x1def4a(0x40c)](_0x4101bd[_0x1def4a(0x30c)],-0x1b188+-0x1a758+0x458e0))try{throw{'json':JSON[_0x1def4a(0x299)](_0x4101bd[_0x1def4a(0x2eb)]())};}catch(_0x3cf023){if(_0x3cf023[_0x1def4a(0x2d5)])throw _0x3cf023[_0x1def4a(0x2d5)];}let _0x5a794a={'filename':_0x2c518d};if(_0x33e1d4)_0x5a794a[_0x1def4a(0x3aa)]=_0x33e1d4;if(!_0x34231b)_0x48e863[_0x1def4a(0x2ec)]=!![];let _0x3589e1='',_0x5de0d5=_0x34231b[_0x1def4a(0x235)],_0xd2863a;if(/webp/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)])||/image/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)])&&_0x48e863[_0x1def4a(0x19c)])_0x3589e1=_0xb37fa2[_0x1def4a(0x2df)];else{if(/image/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)])||/webp/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)])&&_0x48e863[_0x1def4a(0x369)])_0x3589e1=_0xb37fa2[_0x1def4a(0x42d)];else{if(/video/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)]))_0x3589e1=_0xb37fa2[_0x1def4a(0x2aa)];else{if(/audio/[_0x1def4a(0x209)](_0x34231b[_0x1def4a(0x235)])){const _0x50fe39=_0xb37fa2[_0x1def4a(0x193)][_0x1def4a(0x3d4)]('|');let _0x37f007=-0x3*0xa8b+0x1*0xb83+0x141e;while(!![]){switch(_0x50fe39[_0x37f007++]){case'0':_0x4101bd=_0xd2863a[_0x1def4a(0x320)];continue;case'1':_0x5de0d5=_0xb37fa2[_0x1def4a(0x292)];continue;case'2':_0x3589e1=_0xb37fa2[_0x1def4a(0x409)];continue;case'3':_0xd2863a=await(_0x62a401?toPTT:toAudio)(_0x4101bd,_0x34231b[_0x1def4a(0x3a0)]);continue;case'4':_0x33c6fb=_0xd2863a[_0x1def4a(0x2ef)];continue;}break;}}else _0x3589e1=_0xb37fa2[_0x1def4a(0x20c)];}}}if(_0x48e863[_0x1def4a(0x2ec)])_0x3589e1=_0xb37fa2[_0x1def4a(0x20c)];delete _0x48e863[_0x1def4a(0x19c)],delete _0x48e863[_0x1def4a(0x346)],delete _0x48e863[_0x1def4a(0x225)],delete _0x48e863[_0x1def4a(0x2ec)],delete _0x48e863[_0x1def4a(0x369)];let _0x553fdc={..._0x48e863,'caption':_0x32934a,'ptt':_0x62a401,[_0x3589e1]:{'url':_0x33c6fb},'mimetype':_0x5de0d5},_0x380f0c;try{_0x380f0c=await _0x3ce0aa[_0x1def4a(0x3b8)+'e'](_0x134907,_0x553fdc,{..._0x5a794a,..._0x48e863});}catch(_0x2a0b8c){_0x380f0c=null;}finally{if(!_0x380f0c)_0x380f0c=await _0x3ce0aa[_0x1def4a(0x3b8)+'e'](_0x134907,{..._0x553fdc,[_0x3589e1]:_0x4101bd},{..._0x5a794a,..._0x48e863});return _0x4101bd=null,_0x380f0c;}},_0x3ce0aa[_0x4bef49(0x2e4)]=(_0x5de5aa,_0x52cf04,_0x4e0de7='',_0x3cae2c=_0x3ce0aa[_0x4bef49(0x404)]['id'],_0x2665d4={})=>{const _0x15854a=_0x4bef49;let _0x2f7908=Object[_0x15854a(0x18c)](_0x52cf04[_0x15854a(0x3d7)])[-0x1413+-0x1aa1+-0x4*-0xbad],_0x236e7f=_0xb37fa2[_0x15854a(0x419)](_0x2f7908,_0xb37fa2[_0x15854a(0x31c)]);_0x236e7f&&(_0x2f7908=Object[_0x15854a(0x18c)](_0x52cf04[_0x15854a(0x3d7)][_0x15854a(0x29d)+_0x15854a(0x381)][_0x15854a(0x3d7)])[-0x21+-0xfa7+0xfc8]);let _0x217b2e=_0x236e7f?_0x52cf04[_0x15854a(0x3d7)][_0x15854a(0x29d)+_0x15854a(0x381)][_0x15854a(0x3d7)]:_0x52cf04[_0x15854a(0x3d7)],_0x220f4f=_0x217b2e[_0x2f7908];if(_0xb37fa2[_0x15854a(0x2f7)](typeof _0x220f4f,_0xb37fa2[_0x15854a(0x315)]))_0x217b2e[_0x2f7908]=_0xb37fa2[_0x15854a(0x42a)](_0x4e0de7,_0x220f4f);else{if(_0x220f4f[_0x15854a(0x1eb)])_0x220f4f[_0x15854a(0x1eb)]=_0x4e0de7||_0x220f4f[_0x15854a(0x1eb)];else{if(_0x220f4f[_0x15854a(0x1e8)])_0x220f4f[_0x15854a(0x1e8)]=_0x4e0de7||_0x220f4f[_0x15854a(0x1e8)];}}if(_0xb37fa2[_0x15854a(0x262)](typeof _0x220f4f,_0xb37fa2[_0x15854a(0x315)]))_0x217b2e[_0x2f7908]={..._0x220f4f,..._0x2665d4};if(_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t'])_0x3cae2c=_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t']=_0x3cae2c||_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t'];else{if(_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t'])_0x3cae2c=_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t']=_0x3cae2c||_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x29b)+'t'];}if(_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x2a9)][_0x15854a(0x3ac)](_0xb37fa2[_0x15854a(0x19f)]))_0x3cae2c=_0x3cae2c||_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x2a9)];else{if(_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x2a9)][_0x15854a(0x3ac)](_0xb37fa2[_0x15854a(0x29f)]))_0x3cae2c=_0x3cae2c||_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x2a9)];}return _0x52cf04[_0x15854a(0x28e)][_0x15854a(0x2a9)]=_0x5de5aa,_0x52cf04[_0x15854a(0x28e)][_0x15854a(0x20e)]=_0xb37fa2[_0x15854a(0x2e2)](_0x3cae2c,_0x3ce0aa[_0x15854a(0x404)]['id']),proto[_0x15854a(0x2be)+_0x15854a(0x39a)][_0x15854a(0x2a8)](_0x52cf04);},_0x3ce0aa[_0x4bef49(0x245)]=async(_0x286ffa,_0x4746dc,_0x2bb7ce='',_0x450069='',_0x22d939='',_0x15ed82={})=>{const _0x42123f=_0x4bef49;let _0x2d7b13=await _0x3ce0aa[_0x42123f(0x3e2)](_0x4746dc,!![]),{mime:_0x5d47fc,ext:_0x101e0a,res:_0x3b11e3,data:_0x3c6668,filename:_0x4930c5}=_0x2d7b13;if(_0x3b11e3&&_0xb37fa2[_0x42123f(0x2d0)](_0x3b11e3[_0x42123f(0x325)],0x1a2b+0x3b5*0x1+-0x62*0x4c)||_0xb37fa2[_0x42123f(0x40c)](file[_0x42123f(0x30c)],-0xe9c2+0x6e10+0x17bb2))try{throw{'json':JSON[_0x42123f(0x299)](file[_0x42123f(0x2eb)]())};}catch(_0x280604){if(_0x280604[_0x42123f(0x2d5)])throw _0x280604[_0x42123f(0x2d5)];}let _0x231e64='',_0x390f44=_0x5d47fc,_0x3420ee=_0x4930c5;if(_0x15ed82[_0x42123f(0x2ec)])_0x231e64=_0xb37fa2[_0x42123f(0x20c)];if(_0x15ed82[_0x42123f(0x19c)]||/webp/[_0x42123f(0x209)](_0x5d47fc)){let {writeExif:_0x2d8792}=_0xb37fa2[_0x42123f(0x3f5)](require,_0xb37fa2[_0x42123f(0x1b1)]),_0x5ee9ba={'mimetype':_0x5d47fc,'data':_0x3c6668};_0x3420ee=await _0xb37fa2[_0x42123f(0x2cc)](_0x2d8792,_0x5ee9ba,{'packname':_0x15ed82[_0x42123f(0x252)]?_0x15ed82[_0x42123f(0x252)]:global[_0x42123f(0x252)],'author':_0x15ed82[_0x42123f(0x391)]?_0x15ed82[_0x42123f(0x391)]:global[_0x42123f(0x391)],'categories':_0x15ed82[_0x42123f(0x20d)]?_0x15ed82[_0x42123f(0x20d)]:[]}),await fs[_0x42123f(0x226)][_0x42123f(0x195)](_0x4930c5),_0x231e64=_0xb37fa2[_0x42123f(0x2df)],_0x390f44=_0xb37fa2[_0x42123f(0x2c0)];}else{if(/image/[_0x42123f(0x209)](_0x5d47fc))_0x231e64=_0xb37fa2[_0x42123f(0x42d)];else{if(/video/[_0x42123f(0x209)](_0x5d47fc))_0x231e64=_0xb37fa2[_0x42123f(0x2aa)];else{if(/audio/[_0x42123f(0x209)](_0x5d47fc))_0x231e64=_0xb37fa2[_0x42123f(0x409)];else _0x231e64=_0xb37fa2[_0x42123f(0x20c)];}}}return await _0x3ce0aa[_0x42123f(0x3b8)+'e'](_0x286ffa,{[_0x231e64]:{'url':_0x3420ee},'caption':_0x450069,'mimetype':_0x390f44,'fileName':_0x2bb7ce,..._0x15ed82},{'quoted':_0x22d939,..._0x15ed82}),fs[_0x42123f(0x226)][_0x42123f(0x195)](_0x3420ee);},_0x3ce0aa[_0x4bef49(0x412)+'rd']=async(_0x3d84d0,_0x272fa7,_0x4102df=![],_0x228913={})=>{const _0x78196e=_0x4bef49;let _0x5b4817;if(_0x228913[_0x78196e(0x2bd)+'ce']){const _0x16be44=_0xb37fa2[_0x78196e(0x204)][_0x78196e(0x3d4)]('|');let _0x75317a=0xec*-0x1+0x1264+-0x1178;while(!![]){switch(_0x16be44[_0x75317a++]){case'0':delete(_0x272fa7[_0x78196e(0x3d7)]&&_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x377)]?_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x377)]:_0x272fa7[_0x78196e(0x3d7)]||undefined);continue;case'1':_0x5b4817=Object[_0x78196e(0x18c)](_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x3c8)+_0x78196e(0x1c3)][_0x78196e(0x3d7)])[-0x22b7+-0x18f+0x2446];continue;case'2':_0x272fa7[_0x78196e(0x3d7)]={..._0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x3c8)+_0x78196e(0x1c3)][_0x78196e(0x3d7)]};continue;case'3':_0x272fa7[_0x78196e(0x3d7)]=_0x272fa7[_0x78196e(0x3d7)]&&_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x29d)+_0x78196e(0x381)]&&_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x29d)+_0x78196e(0x381)][_0x78196e(0x3d7)]?_0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x29d)+_0x78196e(0x381)][_0x78196e(0x3d7)]:_0x272fa7[_0x78196e(0x3d7)]||undefined;continue;case'4':delete _0x272fa7[_0x78196e(0x3d7)][_0x78196e(0x3c8)+_0x78196e(0x1c3)][_0x78196e(0x3d7)][_0x5b4817][_0x78196e(0x295)];continue;}break;}}let _0x301acb=Object[_0x78196e(0x18c)](_0x272fa7[_0x78196e(0x3d7)])[-0x1005+0x6c*-0x50+0x31c5],_0x3228b7=await _0xb37fa2[_0x78196e(0x2f2)](generateForwardMessageContent,_0x272fa7,_0x4102df),_0x4e45f1=Object[_0x78196e(0x18c)](_0x3228b7)[0x25ff+0xa9*0x28+-0x4067],_0x10c2e7={};if(_0xb37fa2[_0x78196e(0x3b0)](_0x301acb,_0xb37fa2[_0x78196e(0x398)]))_0x10c2e7=_0x272fa7[_0x78196e(0x3d7)][_0x301acb][_0x78196e(0x36d)+'o'];_0x3228b7[_0x4e45f1][_0x78196e(0x36d)+'o']={..._0x10c2e7,..._0x3228b7[_0x4e45f1][_0x78196e(0x36d)+'o']};const _0x34ec9d=await _0xb37fa2[_0x78196e(0x248)](generateWAMessageFromContent,_0x3d84d0,_0x3228b7,_0x228913?{..._0x3228b7[_0x4e45f1],..._0x228913,..._0x228913[_0x78196e(0x36d)+'o']?{'contextInfo':{..._0x3228b7[_0x4e45f1][_0x78196e(0x36d)+'o'],..._0x228913[_0x78196e(0x36d)+'o']}}:{}}:{});return await _0x3ce0aa[_0x78196e(0x284)+'ge'](_0x3d84d0,_0x34ec9d[_0x78196e(0x3d7)],{'messageId':_0x34ec9d[_0x78196e(0x28e)]['id']}),_0x34ec9d;},_0x3ce0aa[_0x4bef49(0x30e)]=(_0x30ea63,_0x1d1c64='',_0x2bf843=[],_0x15b379=-0x5d7+-0xd93*-0x2+-0x154e)=>{const _0x1bcd78=_0x4bef49;return _0x3ce0aa[_0x1bcd78(0x3b8)+'e'](_0x30ea63,{'poll':{'name':_0x1d1c64,'values':_0x2bf843,'selectableCount':_0x15b379}});},_0x3ce0aa[_0x4bef49(0x217)+'on']=(_0x2e6be1='')=>{const _0x5b14ac=_0x4bef49;return[..._0x2e6be1[_0x5b14ac(0x335)](/@([0-9]{5,16}|0)/g)][_0x5b14ac(0x415)](_0x3cc406=>_0x3cc406[-0xe5+0x1*0x21b5+-0x20cf]+(_0x5b14ac(0x203)+_0x5b14ac(0x2b2)));},_0x3ce0aa[_0x4bef49(0x352)+_0x4bef49(0x1d1)]=async _0x45b114=>{const _0x4f9415=_0x4bef49;let _0x1408f2=(_0x45b114[_0x4f9415(0x21c)]||_0x45b114)[_0x4f9415(0x3f7)]||'',_0x2d11e4=_0x45b114[_0x4f9415(0x3e3)]?_0x45b114[_0x4f9415(0x3e3)][_0x4f9415(0x3a3)](/Message/gi,''):_0x1408f2[_0x4f9415(0x3d4)]('/')[-0x1aa1*0x1+0x1f0f*-0x1+0x39b0];const _0x1a8c41=await _0xb37fa2[_0x4f9415(0x2cc)](downloadContentFromMessage,_0x45b114,_0x2d11e4);let _0x2025fc=Buffer[_0x4f9415(0x2bf)]([]);for await(const _0x2a7534 of _0x1a8c41){_0x2025fc=Buffer[_0x4f9415(0x29a)]([_0x2025fc,_0x2a7534]);}return _0x2025fc;},_0x3ce0aa;}let file=require[_0x5ac818(0x33b)](__filename);fs[_0x5ac818(0x269)](file,()=>{const _0x22fca2=_0x5ac818,_0x3343d5={'OehTO':function(_0x263907,_0x378445){return _0x263907(_0x378445);}};fs[_0x22fca2(0x197)+'e'](file),console[_0x22fca2(0x254)](chalk[_0x22fca2(0x36c)](_0x22fca2(0x309)+__filename)),delete require[_0x22fca2(0x3ec)][file],_0x3343d5[_0x22fca2(0x21e)](require,file);}),startHBWABotMz();
+require('./settings')
+const pino = require('pino')
+const { Boom } = require('@hapi/boom')
+const fs = require('fs')
+const chalk = require('chalk')
+const { color } = require('./lib/color')
+const FileType = require('file-type')
+const path = require('path')
+const axios = require('axios')
+const _ = require('lodash')
+const { uncache, nocache } = require('./lib/loader')
+const yargs = require('yargs/yargs')
+const { Low, JSONFile } = require('./lib/lowdb')
+const moment = require('moment-timezone')
+const PhoneNumber = require('awesome-phonenumber')
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
+const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetch, await, sleep, reSize } = require('./lib/myfunc')
+const { default: HBWABotMzConnect, delay, PHONENUMBER_MCC, makeCacheableSignalKeyStore, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, getContentType, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto, Browsers } = require("@adiwajshing/baileys")
+const NodeCache = require("node-cache")
+const Pino = require("pino")
+const readline = require("readline")
+const { parsePhoneNumber } = require("libphonenumber-js")
+const makeWASocket = require("@adiwajshing/baileys").default
+
+const store = makeInMemoryStore({
+    logger: pino().child({
+        level: 'silent',
+        stream: 'store'
+    })
+})
+
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+global.db = JSON.parse(fs.readFileSync('./asset/database/database.json'))
+if (global.db) global.db = {
+sticker: {},
+database: {}, 
+game: {},
+others: {},
+users: {},
+chats: {},
+settings: {},
+...(global.db || {})
+}   
+require('./HBWABot-Mz.js')
+nocache('../HBWABot-Mz.js', (module) => {
+  console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated');
+  console.log(color(`Message nghah mek a ni....`, 'yellow'));
+});
+require('./index.js')
+nocache('../index.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+require('./tobebot.js')
+nocache('../tobebot.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+
+let phoneNumber = "918416093656"
+const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
+const useMobile = process.argv.includes("--mobile")
+
+const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
+const question = (text) => new Promise((resolve) => rl.question(text, resolve))
+         
+async function startHBWABotMz() {
+//------------------------------------------------------
+let { version, isLatest } = await fetchLatestBaileysVersion()
+const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
+const HBWABotMz = makeWASocket({
+    syncFullHistory: true,
+    markOnlineOnConnect: true,
+    connectTimeoutMs: 60000,
+    defaultQueryTimeoutMs: 0,
+    keepAliveIntervalMs: 10000,
+    generateHighQualityLinkPreview: true,
+    version,
+    browser: ["Ubuntu", "Chrome", "20.0.04"],
+    logger: pino({
+      level: "fatal",
+    }),
+    auth: {
+      creds: state.creds,
+      keys: makeCacheableSignalKeyStore(
+        state.keys,
+        pino().child({
+          level: "silent",
+          stream: "store",
+        })
+      ),
+    },
+  });
+
+store.bind(HBWABotMz.ev);
+
+    // login use pairing code
+   // source code https://github.com/WhiskeySockets/Baileys/blob/master/Example/example.ts#L61
+   if (pairingCode && !state.creds.registered) {
+      if (useMobile) throw new Error('Cannot use pairing code with mobile api')
+
+      let phoneNumber
+      if (!!phoneNumber) {
+         phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
+
+         if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
+            console.log(chalk.bgBlack(chalk.redBright("Country code nen i WhatsApp Number type rawh, Entirnan : +918416093656")))
+            process.exit(0)
+         }
+      } else {
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`I WhatsApp number type rawh\nEntirnan: +918416093656 : `)))
+         phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
+
+         // Ask again when entering the wrong number
+         if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
+            console.log(chalk.bgBlack(chalk.redBright("Country code nen i WhatsApp Number type rawh, Entirnan : +918416093656")))
+
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`I WhatsApp number type rawh\nEntirnan: +918416093656 : `)))
+            phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
+            rl.close()
+         }
+      }
+
+      setTimeout(async () => {
+         let code = await HBWABotMz.requestPairingCode(phoneNumber)
+         code = code?.match(/.{1,4}/g)?.join("-") || code
+         console.log(chalk.black(chalk.bgGreen(`Pairing Code : `)), chalk.black(chalk.white(code)))
+      }, 3000)
+   }
+   
+   HBWABotMz.ev.on('connection.update', async (update) => {
+	const {
+		connection,
+		lastDisconnect
+	} = update
+try{
+		if (connection === 'close') {
+			let reason = new Boom(lastDisconnect?.error)?.output.statusCode
+			if (reason === DisconnectReason.badSession) {
+				console.log(`Session file a la tha lo, Delete tha leh rawh`);
+				startHBWABotMz()
+			} else if (reason === DisconnectReason.connectionClosed) {
+				console.log("Connection a awm tawh lo, reconnecting....");
+				startHBWABotMz();
+			} else if (reason === DisconnectReason.connectionLost) {
+				console.log("Server atangin connection a hlauh tlat, reconnecting...");
+				startHBWABotMz();
+			} else if (reason === DisconnectReason.connectionReplaced) {
+				console.log("Connection thlak a ni a, Session thar dang hman a ni a, tuna session hi delete hmasa phawt ang che");
+				startHBWABotMz()
+			} else if (reason === DisconnectReason.loggedOut) {
+				console.log(`Device Logged Out, Khawngaihin Session Delete la, pair tha leh rawh.`);
+				startHBWABotMz();
+			} else if (reason === DisconnectReason.restartRequired) {
+				console.log("Re-start a ngai, Restart rawh le!..");
+				startHBWABotMz();
+			} else if (reason === DisconnectReason.timedOut) {
+				console.log("Connection TimedOut, Reconnecting...");
+				startHBWABotMz();
+			} else HBWABotMz.end(`Unknown DisconnectReason: ${reason}|${connection}`)
+		}
+		if (update.connection === "connecting" || update.receivedPendingNotifications === false) {
+    const folderPath = `./asset/tobebot`;
+    if (fs.existsSync(folderPath)) {
+        fs.rmSync(folderPath, { recursive: true, force: true });
+        console.log(color(`Useless files have been cleaning....`, 'magenta'));
+        console.log(color(`\n\nConnecting...`, 'yellow'));
+    } else {
+        console.log(color(`\n\nConnecting...`, 'yellow'));
+    }
+}
+		if (update.connection == "open" || update.receivedPendingNotifications == "true") {
+			console.log(color(`\n\nConnected to >>\n( `+ HBWABotMz.decodeJid(HBWABotMz.user.id)+" )\n" ,'magenta'))
+const fileUrl = 'https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/HBWABot-Mz/HBWABot-Mz.js';
+const filePath = './HBWABot-Mz.js';
+axios.get(fileUrl, { responseType: 'stream' })
+  .then(response => {
+    const fileSize = response.headers['content-length'];
+    if (fileSize && fileSize < 2 * 1024 * 1024) {
+      const file = fs.createWriteStream(filePath);
+      response.data.pipe(file);
+      file.on('finish', () => {
+        console.log(color(`Version Thar Installed`, 'yellow'))
+      });
+      file.on('error', err => {
+        console.error('File download laiin hetah hian error a awm: ', err.message);
+      });
+    } else {
+      console.error('2MB aia sang install thei a ni lo.');
+    }
+  })
+  .catch(error => {
+    console.error('File download laiin hetah hian error a awm: ', error.message);
+  });
+
+            console.log(color(`
+╭═══❏ ${chalk.bold.red(`[ BOT INFORMATION ]`)} ❏
+┃𒆜┌───┈
+┃𒆜│${chalk.bold.blue(`Creator:`)} Herbert Suantak
+┃𒆜│${chalk.bold.blue(`YT Channel:`)} HBMods OFC
+┃𒆜│${chalk.bold.blue(`Instagram:`)} herbert_suantak2
+┃𒆜│${chalk.bold.blue(`Bot Name:`)} ${botname}
+┃𒆜│${chalk.bold.blue(`Prefix:`)} ${prefixc}
+┃𒆜│${chalk.bold.blue(`Owner Number:`)} ${owner}
+┃𒆜│${chalk.bold.blue(`Current Language:`)} "${bot_language}"
+┃𒆜│${chalk.bold.blue(`Support Language:⬇️`)}
+┃𒆜│${chalk.greenBright(`Mizo [lus]`)}
+┃𒆜│${chalk.greenBright(`English [en]`)}
+┃𒆜│${chalk.greenBright(`Indonesia [id]`)}
+┃𒆜│${chalk.greenBright(`Germany [de]`)}
+┃𒆜│${chalk.greenBright(`Russia [ru]`)}
+┃𒆜│${chalk.greenBright(`Brazil [pt-BR]`)}
+┃𒆜│${chalk.greenBright(`Hindi [hi]`)}
+┃𒆜└───────────┈ 
+╰══════════════𖡛`,'magenta'))
+		}
+	
+} catch (err) {
+	  console.log('Error in Connection.update '+err)
+	  startHBWABotMz()
+	}
+})
+HBWABotMz.ev.on('creds.update', saveCreds)
+HBWABotMz.ev.on("messages.upsert",  () => { })
+//------------------------------------------------------
+
+//farewell/welcome
+    if (GroupWcMsg) {
+HBWABotMz.ev.on('group-participants.update', async (anu) => {
+    console.log(anu);
+    try {
+        let metadata = await HBWABotMz.groupMetadata(anu.id);
+        let participants = anu.participants;
+        for (let num of participants) {
+            try {
+                ppuser = await HBWABotMz.profilePictureUrl(num, 'image');
+            } catch (err) {
+                ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60';
+            }
+            try {
+                ppgroup = await HBWABotMz.profilePictureUrl(anu.id, 'image');
+            } catch (err) {
+                ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60';
+            }
+
+            // Welcome message
+            if (anu.action == 'add') {
+                let nama = await HBWABotMz.getName(num);
+                memb = metadata.participants.length;
+
+                Kon = await getBuffer(`https://i.imgur.com/RlEmFEQ.mp4`);
+                Tol = await getBuffer(`https://i.imgur.com/RlEmFEQ.mp4`);
+
+              const deletetur = await HBWABotMz.sendMessage(anu.id, { video: Kon, contextInfo: { mentionedJid: [num] }, caption: `Hi @${num.split("@")[0]},\nKei hi ${global.botname} ka ni a,\n*${metadata.subject} Group-ah hian kan lo lawm a che*\n\n*Group Description :*\n ${metadata.desc}\n\n\n*©HBWABot*`, gifPlayback: true });
+              await sleep(60000);
+              delete deletetur
+            }
+        }
+    } catch (err) {
+        console.log(err);
+    }
+})
+}
+
+// Anti Call
+    HBWABotMz.ev.on('call', async (BotCall) => {
+    if (!AntiCallBot) return;
+    let botNumber = await HBWABotMz.decodeJid(HBWABotMz.user.id);
+    let HerbertBotNum = db.settings[botNumber].anticall;
+    if (!HerbertBotNum) return;
+    console.log(BotCall);
+    for (let BotCallLohTur of BotCall) {
+    if (BotCallLohTur.isGroup == false) {
+    if (BotCallLohTur.status == "offer") {
+    let BlockHmak = await HBWABotMz.sendTextWithMentions(BotCallLohTur.from, `${global.botname} hian ${BotCallLohTur.isVideo ? `video` : `voice` } call ka dawng thei lo , chu vangin @${BotCallLohTur.from.split('@')[0]} block i ni. Unblock i duh chuan a rang lamin owner hi va bia ang che`);
+    HBWABotMz.sendContact(BotCallLohTur.from, global.owner, BlockHmak);
+                await sleep(8000);
+                await HBWABotMz.updateBlockStatus(BotCallLohTur.from, "block");
+            }
+        }
+    }
+});
+    //autostatus view
+        HBWABotMz.ev.on('messages.upsert', async chatUpdate => {
+        	if (global.autoread_status){
+            mek = chatUpdate.messages[0]
+            if (mek.key && mek.key.remoteJid === 'status@broadcast') {
+            	await HBWABotMz.readMessages([mek.key]) }
+            }
+    })
+
+// detect group update
+		HBWABotMz.ev.on("groups.update", async (json) => {
+			if (global.groupevent) {
+			try {
+ppgroup = await HBWABotMz.profilePictureUrl(anu.id, 'image')
+} catch (err) {
+ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
+} 
+			}
+		})
+		
+		// respon cmd pollMessage
+    async function getMessage(key){
+        if (store) {
+            const msg = await store.loadMessage(key.remoteJid, key.id)
+            return msg?.message
+        }
+        return {
+            conversation: "HBWABot Here!"
+        }
+    }
+    function smsg(HBWABotMz, m, store) {
+if (!m) return m
+let M = proto.WebMessageInfo
+if (m.key) {
+m.id = m.key.id
+m.isBaileys = m.id.startsWith('BAE5') && m.id.length === 16
+m.chat = m.key.remoteJid
+m.fromMe = m.key.fromMe
+m.isGroup = m.chat.endsWith('@g.us')
+m.sender = HBWABotMz.decodeJid(m.fromMe && HBWABotMz.user.id || m.participant || m.key.participant || m.chat || '')
+if (m.isGroup) m.participant = HBWABotMz.decodeJid(m.key.participant) || ''
+}
+if (m.message) {
+m.mtype = getContentType(m.message)
+m.msg = (m.mtype == 'viewOnceMessage' ? m.message[m.mtype].message[getContentType(m.message[m.mtype].message)] : m.message[m.mtype])
+m.body = m.message.conversation || m.msg.caption || m.msg.text || (m.mtype == 'listResponseMessage') && m.msg.singleSelectReply.selectedRowId || (m.mtype == 'buttonsResponseMessage') && m.msg.selectedButtonId || (m.mtype == 'viewOnceMessage') && m.msg.caption || m.text
+let quoted = m.quoted = m.msg.contextInfo ? m.msg.contextInfo.quotedMessage : null
+m.mentionedJid = m.msg.contextInfo ? m.msg.contextInfo.mentionedJid : []
+if (m.quoted) {
+let type = getContentType(quoted)
+m.quoted = m.quoted[type]
+if (['productMessage'].includes(type)) {
+type = getContentType(m.quoted)
+m.quoted = m.quoted[type]
+}
+if (typeof m.quoted === 'string') m.quoted = {
+text: m.quoted
+}
+m.quoted.mtype = type
+m.quoted.id = m.msg.contextInfo.stanzaId
+m.quoted.chat = m.msg.contextInfo.remoteJid || m.chat
+m.quoted.isBaileys = m.quoted.id ? m.quoted.id.startsWith('BAE5') && m.quoted.id.length === 16 : false
+m.quoted.sender = HBWABotMz.decodeJid(m.msg.contextInfo.participant)
+m.quoted.fromMe = m.quoted.sender === HBWABotMz.decodeJid(HBWABotMz.user.id)
+m.quoted.text = m.quoted.text || m.quoted.caption || m.quoted.conversation || m.quoted.contentText || m.quoted.selectedDisplayText || m.quoted.title || ''
+m.quoted.mentionedJid = m.msg.contextInfo ? m.msg.contextInfo.mentionedJid : []
+m.getQuotedObj = m.getQuotedMessage = async () => {
+if (!m.quoted.id) return false
+let q = await store.loadMessage(m.chat, m.quoted.id, conn)
+ return exports.smsg(conn, q, store)
+}
+let vM = m.quoted.fakeObj = M.fromObject({
+key: {
+remoteJid: m.quoted.chat,
+fromMe: m.quoted.fromMe,
+id: m.quoted.id
+},
+message: quoted,
+...(m.isGroup ? { participant: m.quoted.sender } : {})
+})
+m.quoted.delete = () => HBWABotMz.sendMessage(m.quoted.chat, { delete: vM.key })
+m.quoted.copyNForward = (jid, forceForward = false, options = {}) => HBWABotMz.copyNForward(jid, vM, forceForward, options)
+m.quoted.download = () => HBWABotMz.downloadMediaMessage(m.quoted)
+}
+}
+if (m.msg.url) m.download = () => HBWABotMz.downloadMediaMessage(m.msg)
+m.text = m.msg.text || m.msg.caption || m.message.conversation || m.msg.contentText || m.msg.selectedDisplayText || m.msg.title || ''
+m.reply = (text, chatId = m.chat, options = {}) => Buffer.isBuffer(text) ? HBWABotMz.sendMedia(chatId, text, 'file', '', m, { ...options }) : HBWABotMz.sendText(chatId, text, m, { ...options })
+m.copy = () => exports.smsg(conn, M.fromObject(M.toObject(m)))
+m.copyNForward = (jid = m.chat, forceForward = false, options = {}) => HBWABotMz.copyNForward(jid, m, forceForward, options)
+
+return m
+}
+    HBWABotMz.ev.on('messages.update', async chatUpdate => {
+        for(const { key, update } of chatUpdate) {
+			if(update.pollUpdates && key.fromMe) {
+				const pollCreation = await getMessage(key)
+				if(pollCreation) {
+				    const pollUpdate = await getAggregateVotesInPollMessage({
+							message: pollCreation,
+							pollUpdates: update.pollUpdates,
+						})
+	                var toCmd = pollUpdate.filter(v => v.voters.length !== 0)[0]?.name
+	                if (toCmd == undefined) return
+                    var prefCmd = xprefix+toCmd
+	                HBWABotMz.appenTextMessage(prefCmd, chatUpdate)
+				}
+			}
+		}
+    })
+
+    HBWABotMz.ev.on('messages.upsert', async chatUpdate => {
+        //console.log(JSON.stringify(chatUpdate, undefined, 2))
+        try {
+            const mek = chatUpdate.messages[0]
+            if (!mek.message) return
+            mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
+            if (mek.key && mek.key.remoteJid === 'status@broadcast' )
+            if (!HBWABotMz.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
+            if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
+            const m = smsg(HBWABotMz, mek, store)
+            require("./HBWABot-Mz")(HBWABotMz, m, chatUpdate, store)
+        } catch (err) {
+            console.log(err)
+        }
+    })
+   
+   HBWABotMz.decodeJid = (jid) => {
+        if (!jid) return jid
+        if (/:\d+@/gi.test(jid)) {
+            let decode = jidDecode(jid) || {}
+            return decode.user && decode.server && decode.user + '@' + decode.server || jid
+        } else return jid
+    }
+
+    HBWABotMz.ev.on('contacts.update', update => {
+        for (let contact of update) {
+            let id = HBWABotMz.decodeJid(contact.id)
+            if (store && store.contacts) store.contacts[id] = {
+                id,
+                name: contact.notify
+            }
+        }
+    })
+
+    HBWABotMz.getName = (jid, withoutContact = false) => {
+        id = HBWABotMz.decodeJid(jid)
+        withoutContact = HBWABotMz.withoutContact || withoutContact
+        let v
+        if (id.endsWith("@g.us")) return new Promise(async (resolve) => {
+            v = store.contacts[id] || {}
+            if (!(v.name || v.subject)) v = HBWABotMz.groupMetadata(id) || {}
+            resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
+        })
+        else v = id === '0@s.whatsapp.net' ? {
+                id,
+                name: 'WhatsApp'
+            } : id === HBWABotMz.decodeJid(HBWABotMz.user.id) ?
+            HBWABotMz.user :
+            (store.contacts[id] || {})
+        return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
+    }
+
+HBWABotMz.sendContact = async (jid, kon, quoted = '', opts = {}) => {
+	let list = []
+	for (let i of kon) {
+	    list.push({
+	    	displayName: await HBWABotMz.getName(i),
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await HBWABotMz.getName(
+          i + "@s.whatsapp.net"
+        )}\nFN:${
+          global.ownername
+        }\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Hmet la be rawh\nitem2.EMAIL;type=INTERNET:
+HBMods OFC\nitem2.X-ABLabel:YouTube\nitem3.URL:https://herbert70.blogspot.com\nitem3.X-ABLabel:IG\nitem4.ADR:;;${location};;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+	    })
+	}
+	HBWABotMz.sendMessage(jid, { contacts: { displayName: `${list.length} Contact`, contacts: list }, ...opts }, { quoted })
+    }
+
+    HBWABotMz.public = true
+
+    HBWABotMz.serializeM = (m) => smsg(HBWABotMz, m, store)
+
+    HBWABotMz.sendText = (jid, text, quoted = '', options) => HBWABotMz.sendMessage(jid, {
+        text: text,
+        ...options
+    }, {
+        quoted,
+        ...options
+    })
+    HBWABotMz.sendImage = async (jid, path, caption = '', quoted = '', options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,` [1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await HBWABotMz.sendMessage(jid, {
+            image: buffer,
+            caption: caption,
+            ...options
+        }, {
+            quoted
+        })
+    }
+    HBWABotMz.sendTextWithMentions = async (jid, text, quoted, options = {}) => HBWABotMz.sendMessage(jid, {
+        text: text,
+        mentions: [...text.matchAll(/@(\d{0,16})/g)].map(v => v[1] + '@s.whatsapp.net'),
+        ...options
+    }, {
+        quoted
+    })
+    HBWABotMz.sendImageAsSticker = async (jid, path, quoted, options = {}) => {
+let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+let buffer
+if (options && (options.packname || options.author)) {
+buffer = await writeExifImg(buff, options)
+} else {
+buffer = await imageToWebp(buff)
+}
+await HBWABotMz.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
+.then( response => {
+fs.unlinkSync(buffer)
+return response
+})
+}
+
+HBWABotMz.sendAudio = async (jid, path, quoted = '', ptt = false, options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await HBWABotMz.sendMessage(jid, { audio: buffer, ptt: ptt, ...options }, { quoted })
+    }
+    
+    HBWABotMz.sendVideo = async (jid, path, caption = '', quoted = '', gif = false, options) => {
+        let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+        return await HBWABotMz.sendMessage(jid, { video: buffer, caption: caption, gifPlayback: gif, ...options }, { quoted })
+    }
+
+HBWABotMz.sendVideoAsSticker = async (jid, path, quoted, options = {}) => {
+let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+let buffer
+if (options && (options.packname || options.author)) {
+buffer = await writeExifVid(buff, options)
+} else {
+buffer = await videoToWebp(buff)
+}
+await HBWABotMz.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
+return buffer
+}
+    HBWABotMz.downloadAndSaveMediaMessage = async (message, filename, attachExtension = true) => {
+        let quoted = message.msg ? message.msg : message
+        let mime = (message.msg || message).mimetype || ''
+        let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+        const stream = await downloadContentFromMessage(quoted, messageType)
+        let buffer = Buffer.from([])
+        for await (const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk])
+        }
+        let type = await FileType.fromBuffer(buffer)
+        trueFileName = attachExtension ? (filename + '.' + type.ext) : filename
+        // save to file
+        await fs.writeFileSync(trueFileName, buffer)
+        return trueFileName
+    }
+    
+    HBWABotMz.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
+      let mime = '';
+      let res = await axios.head(url)
+      mime = res.headers['content-type']
+      if (mime.split("/")[1] === "gif") {
+     return HBWABotMz.sendMessage(jid, { video: await getBuffer(url), caption: caption, gifPlayback: true, ...options}, { quoted: quoted, ...options})
+      }
+      let type = mime.split("/")[0]+"Message"
+      if(mime === "application/pdf"){
+     return HBWABotMz.sendMessage(jid, { document: await getBuffer(url), mimetype: 'application/pdf', caption: caption, ...options}, { quoted: quoted, ...options })
+      }
+      if(mime.split("/")[0] === "image"){
+     return HBWABotMz.sendMessage(jid, { image: await getBuffer(url), caption: caption, ...options}, { quoted: quoted, ...options})
+      }
+      if(mime.split("/")[0] === "video"){
+     return HBWABotMz.sendMessage(jid, { video: await getBuffer(url), caption: caption, mimetype: 'video/mp4', ...options}, { quoted: quoted, ...options })
+      }
+      if(mime.split("/")[0] === "audio"){
+     return HBWABotMz.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options}, { quoted: quoted, ...options })
+      }
+      }
+      
+      HBWABotMz.getFile = async (PATH, save) => {
+        let res
+        let data = Buffer.isBuffer(PATH) ? PATH : /^data:.*?\/.*?;base64,/i.test(PATH) ? Buffer.from(PATH.split`,`[1], 'base64') : /^https?:\/\//.test(PATH) ? await (res = await getBuffer(PATH)) : fs.existsSync(PATH) ? (filename = PATH, fs.readFileSync(PATH)) : typeof PATH === 'string' ? PATH : Buffer.alloc(0)
+        //if (!Buffer.isBuffer(data)) throw new TypeError('Result is not a buffer')
+        let type = await FileType.fromBuffer(data) || {
+            mime: 'application/octet-stream',
+            ext: '.bin'
+        }
+        filename = path.join(__filename, '../lib' + new Date * 1 + '.' + type.ext)
+        if (data && save) fs.promises.writeFile(filename, data)
+        return {
+            res,
+            filename,
+	    size: await getSizeMedia(data),
+            ...type,
+            data
+        }
+
+    }
+      
+      HBWABotMz.sendFile = async (jid, path, filename = '', caption = '', quoted, ptt = false, options = {}) => {
+  let type = await HBWABotMz.getFile(path, true);
+  let { res, data: file, filename: pathFile } = type;
+
+  if (res && res.status !== 200 || file.length <= 65536) {
+    try {
+      throw {
+        json: JSON.parse(file.toString())
+      };
+    } catch (e) {
+      if (e.json) throw e.json;
+    }
+  }
+
+  let opt = {
+    filename
+  };
+
+  if (quoted) opt.quoted = quoted;
+  if (!type) options.asDocument = true;
+
+  let mtype = '',
+    mimetype = type.mime,
+    convert;
+
+  if (/webp/.test(type.mime) || (/image/.test(type.mime) && options.asSticker)) mtype = 'sticker';
+  else if (/image/.test(type.mime) || (/webp/.test(type.mime) && options.asImage)) mtype = 'image';
+  else if (/video/.test(type.mime)) mtype = 'video';
+  else if (/audio/.test(type.mime)) {
+    convert = await (ptt ? toPTT : toAudio)(file, type.ext);
+    file = convert.data;
+    pathFile = convert.filename;
+    mtype = 'audio';
+    mimetype = 'audio/ogg; codecs=opus';
+  } else mtype = 'document';
+
+  if (options.asDocument) mtype = 'document';
+
+  delete options.asSticker;
+  delete options.asLocation;
+  delete options.asVideo;
+  delete options.asDocument;
+  delete options.asImage;
+
+  let message = { ...options, caption, ptt, [mtype]: { url: pathFile }, mimetype };
+  let m;
+
+  try {
+    m = await HBWABotMz.sendMessage(jid, message, { ...opt, ...options });
+  } catch (e) {
+    //console.error(e)
+    m = null;
+  } finally {
+    if (!m) m = await HBWABotMz.sendMessage(jid, { ...message, [mtype]: file }, { ...opt, ...options });
+    file = null;
+    return m;
+  }
+}
+
+HBWABotMz.cMod = (jid, copy, text = '', sender = HBWABotMz.user.id, options = {}) => {
+        //let copy = message.toJSON()
+		let mtype = Object.keys(copy.message)[0]
+		let isEphemeral = mtype === 'ephemeralMessage'
+        if (isEphemeral) {
+            mtype = Object.keys(copy.message.ephemeralMessage.message)[0]
+        }
+        let msg = isEphemeral ? copy.message.ephemeralMessage.message : copy.message
+		let content = msg[mtype]
+        if (typeof content === 'string') msg[mtype] = text || content
+		else if (content.caption) content.caption = text || content.caption
+		else if (content.text) content.text = text || content.text
+		if (typeof content !== 'string') msg[mtype] = {
+			...content,
+			...options
+        }
+        if (copy.key.participant) sender = copy.key.participant = sender || copy.key.participant
+		else if (copy.key.participant) sender = copy.key.participant = sender || copy.key.participant
+		if (copy.key.remoteJid.includes('@s.whatsapp.net')) sender = sender || copy.key.remoteJid
+		else if (copy.key.remoteJid.includes('@broadcast')) sender = sender || copy.key.remoteJid
+		copy.key.remoteJid = jid
+		copy.key.fromMe = sender === HBWABotMz.user.id
+
+        return proto.WebMessageInfo.fromObject(copy)
+    }
+
+HBWABotMz.sendMedia = async (jid, path, fileName = '', caption = '', quoted = '', options = {}) => {
+        let types = await HBWABotMz.getFile(path, true)
+           let { mime, ext, res, data, filename } = types
+           if (res && res.status !== 200 || file.length <= 65536) {
+               try { throw { json: JSON.parse(file.toString()) } }
+               catch (e) { if (e.json) throw e.json }
+           }
+       let type = '', mimetype = mime, pathFile = filename
+       if (options.asDocument) type = 'document'
+       if (options.asSticker || /webp/.test(mime)) {
+        let { writeExif } = require('./lib/exif')
+        let media = { mimetype: mime, data }
+        pathFile = await writeExif(media, { packname: options.packname ? options.packname : global.packname, author: options.author ? options.author : global.author, categories: options.categories ? options.categories : [] })
+        await fs.promises.unlink(filename)
+        type = 'sticker'
+        mimetype = 'image/webp'
+        }
+       else if (/image/.test(mime)) type = 'image'
+       else if (/video/.test(mime)) type = 'video'
+       else if (/audio/.test(mime)) type = 'audio'
+       else type = 'document'
+       await HBWABotMz.sendMessage(jid, { [type]: { url: pathFile }, caption, mimetype, fileName, ...options }, { quoted, ...options })
+       return fs.promises.unlink(pathFile)
+       }
+    
+    HBWABotMz.copyNForward = async (jid, message, forceForward = false, options = {}) => {
+let vtype
+if (options.readViewOnce) {
+message.message = message.message && message.message.ephemeralMessage && message.message.ephemeralMessage.message ? message.message.ephemeralMessage.message : (message.message || undefined)
+vtype = Object.keys(message.message.viewOnceMessage.message)[0]
+delete(message.message && message.message.ignore ? message.message.ignore : (message.message || undefined))
+delete message.message.viewOnceMessage.message[vtype].viewOnce
+message.message = {
+...message.message.viewOnceMessage.message
+}
+}
+let mtype = Object.keys(message.message)[0]
+let content = await generateForwardMessageContent(message, forceForward)
+let ctype = Object.keys(content)[0]
+let context = {}
+if (mtype != "conversation") context = message.message[mtype].contextInfo
+content[ctype].contextInfo = {
+...context,
+...content[ctype].contextInfo
+}
+const waMessage = await generateWAMessageFromContent(jid, content, options ? {
+...content[ctype],
+...options,
+...(options.contextInfo ? {
+contextInfo: {
+...content[ctype].contextInfo,
+...options.contextInfo
+}
+} : {})
+} : {})
+await HBWABotMz.relayMessage(jid, waMessage.message, { messageId:  waMessage.key.id })
+return waMessage
+}
+    
+    HBWABotMz.sendPoll = (jid, name = '', values = [], selectableCount = 1) => { return HBWABotMz.sendMessage(jid, { poll: { name, values, selectableCount }}) }
+
+HBWABotMz.parseMention = (text = '') => {
+return [...text.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')
+}
+            
+    HBWABotMz.downloadMediaMessage = async (message) => {
+        let mime = (message.msg || message).mimetype || ''
+        let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0]
+        const stream = await downloadContentFromMessage(message, messageType)
+        let buffer = Buffer.from([])
+        for await (const chunk of stream) {
+            buffer = Buffer.concat([buffer, chunk])
+        }
+
+        return buffer
+    }
+    return HBWABotMz
+}
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+    fs.unwatchFile(file)
+    console.log(chalk.redBright(`Update ${__filename}`))
+    delete require.cache[file]
+    require(file)
+})
+
+startHBWABotMz()
