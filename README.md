@@ -6,7 +6,7 @@
 </details>
 
 <!-- Hriat tur -->
-<b><details><summary>Hriat tur leh tih ngei ngei ngai</summary></b>
+<b><details><summary>Heroku Hmang Turte Hriat Tur</summary></b>
 * Qr code leh Number hmangin login thei ve ve a ni tawh e
 
 <b><details><summary>Qr Code</summary></b>
@@ -83,9 +83,62 @@ heroku/nodejs
 ```
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
+ <b><details><summary>TERMUX & PANEL Support</summary></b>
+* Panel hi chu YouTube kan channel (HBMods-OFC)ah pawh a hman dan kan dah ngun tawh a, i lo en mai dawn nia
+
+ <b><details><summary>Termux Command</summary></b>
+* Termux hi i hman dawn chuan, i folder extract na hming ang chiah kha `cd /sdcard/HBWABot-Mz` he command ah hian hmang ang che
+* Chuanin hriattur dang leh chu, i folder chhungah chuan i lut anga, package.json ah khan `"github:HBMods-OFC/Baileys"` hei hi `"github:HBMods-OFC/Library"` tiin thlak ang che
+```
+apt update
+```
+```
+apt upgrade
+```
+```
+pkg update && pkg upgrade
+```
+```
+pkg install bash
+```
+```
+pkg install libwebp
+```
+```
+pkg install git -y
+```
+```
+pkg install nodejs -y
+```
+```
+pkg install ffmpeg -y
+```
+```
+pkg install wget
+```
+```
+pkg install imagemagick -y
+```
+```
+pkg install yarn
+```
+```
+termux-setup-storage
+```
+```
+cd /sdcard/HBWABot-Mz
+```
+```
+yarn install
+```
+```
+npm start
+```
+</details>
+</details>
 
 <a href="https://github.com/HBMods-OFC"><img title="Author" src="https://img.shields.io/badge/Author-HBMods•OFC-blue.svg?color=FFA161FF&style=for-the-badge&logo=github" /></a>  
-<a href="https://chat.whatsapp.com/DVjOS8G9xqgFoXfNy6HYAK"><img title="HBWABot Version 4" src="https://img.shields.io/badge/WhatsApp-Group-blue.svg?color=FFA161FF&style=for-the-badge&logo=whatsapp" /></a> 
+<a href="https://chat.whatsapp.com/E16glRa3vS4E6Zfd9CUpWb"><img title="HBWABot Version 4" src="https://img.shields.io/badge/WhatsApp-Group-blue.svg?color=FFA161FF&style=for-the-badge&logo=whatsapp" /></a> 
 <a href="https://youtube.com/@HBMods_Channel"><img src="https://img.shields.io/badge/HBMods-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@HBMods_Channel" /><br>
 </details>
 
