@@ -19,15 +19,20 @@
 * Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods/HBWABot-Mizo-Pairing-Code?v=1)
 </details>
 
-<b><details><summary>Sign up Scalingo Account</summary></b>
+<b><details><summary>Heroku Build Package</summary></b>
+```
+heroku/nodejs
+```
+```
+ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
-* Scalingo Account ila nei loh chuan [Create Scalinggo Account](https://scalingo.com/)
 </details>
 
 </details>
-
-#
-
 
 <b><details><summary>Thlak tur </summary></b>
  
@@ -72,19 +77,12 @@ Entirnan : ```https://dashboard.heroku.com/new?template=https://github.com/HBMod
 
 </details>
 
-## HEROKU BUILDPACK
-
-```
-heroku/nodejs
-```
-```
- https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-```
-```
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
- <b><details><summary>TERMUX & PANEL Support</summary></b>
+## Support Other Platform
+ <b><details><summary>Panel</summary></b>
 * Panel hi chu YouTube kan channel (HBMods-OFC)ah pawh a hman dan kan dah ngun tawh a, i lo en mai dawn nia
+
+</details>
+
 
  <b><details><summary>Termux Command</summary></b>
 * Termux hi i hman dawn chuan, i folder extract na hming ang chiah kha `cd /sdcard/HBWABot-Mz` he command ah hian hmang ang che
@@ -134,6 +132,7 @@ yarn install
 ```
 npm start
 ```
+</details>
 </details>
 </details>
 
