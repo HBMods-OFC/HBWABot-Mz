@@ -1,4 +1,4 @@
-# HBWABot Mizo
+# siama solo
 <p align="center">
 <img src="https://telegra.ph/file/3e98d0e763d25010f4ee8.jpg" alt="nz" width="900"/>
 </p>
