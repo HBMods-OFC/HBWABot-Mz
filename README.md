@@ -41,15 +41,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/blob/02484e7d4a8e37710a2ce5a92544c8f60f13b406/settings.js#L10) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
 ```
-global.owner = ['918416093656'] //i number in thlak la
-global.ownernumber = '918416093656' //hei pawh hi thlak rawh
-global.ownername = "꧁Herbert♕꧂"// i hmingin thlak la
-global.location = "India, Mizoram, Aizawl" // i awmna hmun
+global.owner = ['919233969830'] //i number in thlak la
+global.ownernumber = '919233969830' //hei pawh hi thlak rawh
+global.ownername = "❟❛❟ ✇ σвιтσ υ¢нιнα ✇ ❟❛❟"// i hmingin thlak la
+global.location = "India, Gujaraat, Ahmedabad" // i awmna hmun
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel" // hei hi youtube channel i neih chuan thlak rawh
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // i phone number 
-global.ownerNumber = ["918416093656@s.whatsapp.net"] // i phone number 
+global.creator = "919233969830@s.whatsapp.net" // i phone number 
+global.ownerNumber = ["919233969830@s.whatsapp.net"] // i phone number 
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 ```
@@ -68,7 +68,7 @@ global.autoread_status = false // Auto status view i duh chuan true tih in thlak
 
 <b><details><summary>Create Heroku App</summary></b>
 
-<b> He link hi copy la, chuan i repo fork link kha copy leh la, chuan ```template=``` tih hmaah tak hian paste tur</b>
+<b> He link hi copy la, chuan i repo fork link kha copy leh la, chuan ```template=https://dashboard.heroku.com/new?``` tih hmaah tak hian paste tur</b>
 ```
 https://dashboard.heroku.com/new?template=
 ```
