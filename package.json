@@ -52,6 +52,7 @@
         "mathjs": "^11.3.0",
         "megajs": "^1.1.4",
         "moment-timezone": "^0.5.43",
+        "mongoose": "^5.10.11",
         "node-cron": "^3.0.0",
         "node-fetch": "^2.6.11",
         "node-id3": "^0.2.3",
