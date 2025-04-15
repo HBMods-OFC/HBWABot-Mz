@@ -1,6 +1,6 @@
 {
   "name": "hbwabot",
-  "version": "14.0.10",
+  "version": "14.5.0",
   "description": "Automated whatsapp bot hi nodejs leh baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",
