@@ -2,20 +2,18 @@
   "name": "hbwabot",
   "version": "20.0.0",
   "description": "Automated whatsapp bot hi nodejs leh baileys lib hmanga siam a ni",
-  "main": "start.js",
+  "main": "index.js",
   "type": "commonjs",
   "directories": {
     "lib": "lib",
     "media": "asset"
   },
   "scripts": {
-    "start": "node start.js",
-    "dev": "nodemon index.js",
-    "debug": "DEBUG=* node start.js"
+    "start": "node index.js"
   },
   "keywords": [
     "whatsapp",
-    "2025"
+    "2026"
   ],
   "author": "HBMods-OFC",
   "license": "MIT",
