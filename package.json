@@ -1,6 +1,6 @@
 {
   "name": "hbwabot",
-  "version": "20.5.1",
+  "version": "20.5.2",
   "description": "Automated whatsapp bot hi nodejs leh baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",
@@ -18,7 +18,7 @@
   "author": "HBMods-OFC",
   "license": "MIT",
    "dependencies": {
-        "@hbmodsofc/baileys": "latest",
+        "@hbmodsofc/baileys": "npm:baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "@kreisler/js-google-translate-free": "^2.1.0",
