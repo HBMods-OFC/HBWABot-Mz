@@ -1,6 +1,6 @@
 {
   "name": "hbwabot",
-  "version": "20.5.0",
+  "version": "20.5.1",
   "description": "Automated whatsapp bot hi nodejs leh baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",
@@ -23,6 +23,7 @@
         "@hapi/boom": "^10.0.1",
         "@kreisler/js-google-translate-free": "^2.1.0",
         "acrcloud": "^1.4.0",
+        "adm-zip": "^0.5.10",
         "anime-wallpaper": "^1.0.2",
         "awesome-phonenumber": "^5.9.0",
         "axios": "^1.4.0",
